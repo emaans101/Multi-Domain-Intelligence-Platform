@@ -1,0 +1,251 @@
+id,ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to
+1,T001,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,9/27/2024,9/30/2024,Bob
+2,T002,Medium,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,4/9/2024,4/14/2024,Charlie
+3,T003,High,Open,Software,Application crash,Application crash reported by user.,10/20/2024,,David
+4,T004,High,In Progress,Hardware,Keyboard not working,Keyboard not working reported by user.,8/23/2024,,Eve
+5,T005,Low,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,7/8/2024,7/9/2024,Alice
+6,T006,Critical,Open,Network,Router outage,Router outage reported by user.,1/21/2024,,Bob
+7,T007,Critical,Open,Software,Application crash,Application crash reported by user.,9/21/2024,,Charlie
+8,T008,Medium,Resolved,Network,Switch failure,Switch failure reported by user.,9/20/2024,9/22/2024,David
+9,T009,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,2/23/2024,2/25/2024,Eve
+10,T010,Medium,Resolved,Software,Install antivirus,Install antivirus reported by user.,9/26/2024,9/27/2024,Alice
+11,T011,Medium,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,12/3/2024,12/7/2024,Bob
+12,T012,High,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,6/5/2024,6/6/2024,Charlie
+13,T013,Medium,Closed,Network,Router outage,Router outage reported by user.,5/18/2024,5/21/2024,David
+14,T014,High,Resolved,Software,Application crash,Application crash reported by user.,8/18/2024,8/19/2024,Eve
+15,T015,Medium,Closed,Network,VPN dropouts,VPN dropouts reported by user.,3/2/2024,3/8/2024,Alice
+16,T016,High,In Progress,Network,Firewall outage,Firewall outage reported by user.,4/10/2024,,Bob
+17,T017,Medium,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,7/25/2024,7/28/2024,Charlie
+18,T018,Medium,Resolved,Software,CRM login issues,CRM login issues reported by user.,8/18/2024,8/21/2024,David
+19,T019,Medium,Closed,Software,Application crash,Application crash reported by user.,6/18/2024,6/22/2024,Eve
+20,T020,Medium,Closed,Software,Email bounce issues,Email bounce issues reported by user.,11/26/2024,12/2/2024,Alice
+21,T021,Medium,Closed,Network,VPN dropouts,VPN dropouts reported by user.,4/30/2024,5/6/2024,Bob
+22,T022,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,8/12/2024,8/15/2024,Charlie
+23,T023,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,6/28/2024,7/2/2024,David
+24,T024,High,Resolved,Network,Router outage,Router outage reported by user.,4/22/2024,4/25/2024,Eve
+25,T025,Critical,Resolved,Software,Install antivirus,Install antivirus reported by user.,12/8/2024,12/11/2024,Alice
+26,T026,Low,Resolved,Software,CRM login issues,CRM login issues reported by user.,6/8/2024,6/11/2024,Bob
+27,T027,Medium,Closed,Software,CRM login issues,CRM login issues reported by user.,10/6/2024,10/12/2024,Charlie
+28,T028,High,Open,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,7/19/2024,,David
+29,T029,Medium,Resolved,Network,Router outage,Router outage reported by user.,12/11/2024,12/15/2024,Eve
+30,T030,High,In Progress,Network,Router outage,Router outage reported by user.,12/3/2024,,Alice
+31,T031,Low,Resolved,Network,Router outage,Router outage reported by user.,10/24/2024,10/26/2024,Bob
+32,T032,High,Resolved,Hardware,HDD failure,HDD failure reported by user.,1/2/2024,1/7/2024,Charlie
+33,T033,Critical,In Progress,Network,VPN dropouts,VPN dropouts reported by user.,1/9/2024,,David
+34,T034,Critical,Resolved,Software,Application crash,Application crash reported by user.,4/29/2024,4/30/2024,Eve
+35,T035,Critical,Resolved,Software,Install antivirus,Install antivirus reported by user.,8/14/2024,8/16/2024,Alice
+36,T036,High,In Progress,Software,Email bounce issues,Email bounce issues reported by user.,6/11/2024,,Bob
+37,T037,Medium,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,7/13/2024,7/16/2024,Charlie
+38,T038,High,Open,Software,Install antivirus,Install antivirus reported by user.,8/25/2024,,David
+39,T039,Critical,In Progress,Network,Router outage,Router outage reported by user.,8/13/2024,,Eve
+40,T040,Medium,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,10/30/2024,10/31/2024,Alice
+41,T041,Critical,Open,Software,Email bounce issues,Email bounce issues reported by user.,2/15/2024,,Bob
+42,T042,Critical,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,10/28/2024,10/29/2024,Charlie
+43,T043,Medium,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,6/9/2024,6/15/2024,David
+44,T044,Critical,In Progress,Software,Database deadlock,Database deadlock reported by user.,10/6/2024,,Eve
+45,T045,Medium,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,9/29/2024,10/5/2024,Alice
+46,T046,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,12/20/2024,12/24/2024,Bob
+47,T047,Low,Closed,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,1/20/2024,1/26/2024,Charlie
+48,T048,Critical,In Progress,Network,Firewall outage,Firewall outage reported by user.,4/1/2024,,David
+49,T049,Medium,Closed,Software,Application crash,Application crash reported by user.,3/3/2024,3/4/2024,Eve
+50,T050,Low,Closed,Network,Switch failure,Switch failure reported by user.,2/23/2024,2/27/2024,Alice
+51,T051,Critical,Open,Network,Firewall outage,Firewall outage reported by user.,7/14/2024,,Bob
+52,T052,High,In Progress,Network,VPN dropouts,VPN dropouts reported by user.,11/3/2024,,Charlie
+53,T053,High,Open,Network,Wi-Fi instability,Wi-Fi instability reported by user.,10/1/2024,,David
+54,T054,Critical,In Progress,Network,Wi-Fi instability,Wi-Fi instability reported by user.,5/6/2024,,Eve
+55,T055,Critical,Open,Network,DNS resolution failure,DNS resolution failure reported by user.,10/16/2024,,Alice
+56,T056,Medium,Closed,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,7/10/2024,7/13/2024,Bob
+57,T057,High,Open,Network,DNS resolution failure,DNS resolution failure reported by user.,3/26/2024,,Charlie
+58,T058,Low,Resolved,Software,Database deadlock,Database deadlock reported by user.,8/25/2024,8/27/2024,David
+59,T059,Medium,Resolved,Network,Wi-Fi instability,Wi-Fi instability reported by user.,4/9/2024,4/11/2024,Eve
+60,T060,Critical,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,6/28/2024,6/29/2024,Alice
+61,T061,High,In Progress,Network,VPN dropouts,VPN dropouts reported by user.,9/14/2024,,Bob
+62,T062,High,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,6/11/2024,6/14/2024,Charlie
+63,T063,High,Open,Hardware,HDD failure,HDD failure reported by user.,6/16/2024,,David
+64,T064,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,9/9/2024,9/10/2024,Eve
+65,T065,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,3/30/2024,4/3/2024,Alice
+66,T066,High,In Progress,Hardware,HDD failure,HDD failure reported by user.,3/15/2024,,Bob
+67,T067,Medium,Closed,Software,CRM login issues,CRM login issues reported by user.,12/22/2024,12/23/2024,Charlie
+68,T068,Medium,Closed,Software,Application crash,Application crash reported by user.,4/5/2024,4/10/2024,David
+69,T069,Medium,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,10/5/2024,10/6/2024,Eve
+70,T070,High,Open,Hardware,HDD failure,HDD failure reported by user.,12/7/2024,,Alice
+71,T071,Critical,In Progress,Hardware,HDD failure,HDD failure reported by user.,10/10/2024,,Bob
+72,T072,Low,Closed,Hardware,HDD failure,HDD failure reported by user.,2/22/2024,2/27/2024,Charlie
+73,T073,Medium,Closed,Network,VPN dropouts,VPN dropouts reported by user.,8/10/2024,8/15/2024,David
+74,T074,High,Resolved,Network,DNS resolution failure,DNS resolution failure reported by user.,3/16/2024,3/17/2024,Eve
+75,T075,High,Open,Software,CRM login issues,CRM login issues reported by user.,5/20/2024,,Alice
+76,T076,High,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,1/29/2024,2/3/2024,Bob
+77,T077,Critical,In Progress,Hardware,Screen cracked,Screen cracked reported by user.,11/22/2024,,Charlie
+78,T078,High,In Progress,Network,Wi-Fi instability,Wi-Fi instability reported by user.,12/29/2024,,David
+79,T079,Medium,Resolved,Software,Application crash,Application crash reported by user.,6/21/2024,6/25/2024,Eve
+80,T080,High,In Progress,Network,Switch failure,Switch failure reported by user.,12/26/2024,,Alice
+81,T081,Critical,In Progress,Network,Wi-Fi instability,Wi-Fi instability reported by user.,11/7/2024,,Bob
+82,T082,Low,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,11/12/2024,11/15/2024,Charlie
+83,T083,Low,Resolved,Network,Router outage,Router outage reported by user.,5/26/2024,5/27/2024,David
+84,T084,High,In Progress,Network,Router outage,Router outage reported by user.,1/1/2024,,Eve
+85,T085,Critical,In Progress,Software,Application crash,Application crash reported by user.,8/11/2024,,Alice
+86,T086,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,12/13/2024,12/17/2024,Bob
+87,T087,Medium,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,2/10/2024,2/11/2024,Charlie
+88,T088,Medium,Closed,Hardware,Laptop overheating,Laptop overheating reported by user.,8/7/2024,8/12/2024,David
+89,T089,Medium,Resolved,Software,Email bounce issues,Email bounce issues reported by user.,8/29/2024,9/4/2024,Eve
+90,T090,Medium,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,6/25/2024,7/1/2024,Alice
+91,T091,High,Open,Hardware,HDD failure,HDD failure reported by user.,4/7/2024,,Bob
+92,T092,Low,Closed,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,7/15/2024,7/20/2024,Charlie
+93,T093,Critical,In Progress,Software,Install antivirus,Install antivirus reported by user.,3/23/2024,,David
+94,T094,Medium,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,7/23/2024,7/25/2024,Eve
+95,T095,Medium,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,6/2/2024,6/5/2024,Alice
+96,T096,Medium,Closed,Hardware,Laptop overheating,Laptop overheating reported by user.,2/23/2024,2/24/2024,Bob
+97,T097,Low,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,7/25/2024,7/28/2024,Charlie
+98,T098,Critical,In Progress,Software,CRM login issues,CRM login issues reported by user.,10/20/2024,,David
+99,T099,Low,Resolved,Software,Install antivirus,Install antivirus reported by user.,11/3/2024,11/7/2024,Eve
+100,T100,High,Open,Network,Router outage,Router outage reported by user.,3/21/2024,,Alice
+101,T101,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,2/3/2024,2/9/2024,Bob
+102,T102,High,Open,Network,VPN dropouts,VPN dropouts reported by user.,4/20/2024,,Charlie
+103,T103,Low,Resolved,Hardware,HDD failure,HDD failure reported by user.,7/13/2024,7/15/2024,David
+104,T104,Medium,Resolved,Network,Firewall outage,Firewall outage reported by user.,10/3/2024,10/8/2024,Eve
+105,T105,Low,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,5/12/2024,5/14/2024,Alice
+106,T106,High,In Progress,Hardware,Screen cracked,Screen cracked reported by user.,3/13/2024,,Bob
+107,T107,Low,Closed,Software,CRM login issues,CRM login issues reported by user.,4/16/2024,4/17/2024,Charlie
+108,T108,Medium,Resolved,Network,Firewall outage,Firewall outage reported by user.,10/29/2024,11/2/2024,David
+109,T109,Medium,Closed,Hardware,Monitor flicker,Monitor flicker reported by user.,6/2/2024,6/8/2024,Eve
+110,T110,High,In Progress,Hardware,Laptop overheating,Laptop overheating reported by user.,9/30/2024,,Alice
+111,T111,High,Open,Software,Database deadlock,Database deadlock reported by user.,2/8/2024,,Bob
+112,T112,High,In Progress,Hardware,Monitor flicker,Monitor flicker reported by user.,5/24/2024,,Charlie
+113,T113,High,In Progress,Software,Email bounce issues,Email bounce issues reported by user.,4/20/2024,,David
+114,T114,High,In Progress,Software,Database deadlock,Database deadlock reported by user.,4/10/2024,,Eve
+115,T115,Medium,Closed,Network,Firewall outage,Firewall outage reported by user.,12/30/2024,1/4/2025,Alice
+116,T116,Medium,Resolved,Software,Install antivirus,Install antivirus reported by user.,4/21/2024,4/27/2024,Bob
+117,T117,Medium,Resolved,Network,Switch failure,Switch failure reported by user.,5/16/2024,5/21/2024,Charlie
+118,T118,Critical,Resolved,Software,Install antivirus,Install antivirus reported by user.,11/17/2024,11/23/2024,David
+119,T119,Medium,Resolved,Software,CRM login issues,CRM login issues reported by user.,3/2/2024,3/4/2024,Eve
+120,T120,High,In Progress,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,11/21/2024,,Alice
+121,T121,High,In Progress,Hardware,Screen cracked,Screen cracked reported by user.,5/19/2024,,Bob
+122,T122,High,Open,Network,Wi-Fi instability,Wi-Fi instability reported by user.,12/21/2024,,Charlie
+123,T123,High,In Progress,Software,Application crash,Application crash reported by user.,6/20/2024,,David
+124,T124,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,11/24/2024,11/30/2024,Eve
+125,T125,Medium,Closed,Hardware,Laptop overheating,Laptop overheating reported by user.,3/9/2024,3/12/2024,Alice
+126,T126,Medium,Closed,Network,DNS resolution failure,DNS resolution failure reported by user.,2/4/2024,2/8/2024,Bob
+127,T127,Low,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,8/16/2024,8/19/2024,Charlie
+128,T128,High,In Progress,Software,Database deadlock,Database deadlock reported by user.,5/11/2024,,David
+129,T129,High,In Progress,Network,Router outage,Router outage reported by user.,4/13/2024,,Eve
+130,T130,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,11/4/2024,11/7/2024,Alice
+131,T131,Critical,Open,Network,DNS resolution failure,DNS resolution failure reported by user.,6/27/2024,,Bob
+132,T132,Medium,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,8/18/2024,8/19/2024,Charlie
+133,T133,Medium,Closed,Network,VPN dropouts,VPN dropouts reported by user.,10/15/2024,10/20/2024,David
+134,T134,High,Open,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,10/20/2024,,Eve
+135,T135,High,In Progress,Hardware,Monitor flicker,Monitor flicker reported by user.,2/16/2024,,Alice
+136,T136,High,In Progress,Network,Switch failure,Switch failure reported by user.,10/18/2024,,Bob
+137,T137,Medium,Resolved,Software,Install antivirus,Install antivirus reported by user.,12/25/2024,12/27/2024,Charlie
+138,T138,High,In Progress,Software,Application crash,Application crash reported by user.,5/20/2024,,David
+139,T139,High,In Progress,Hardware,Keyboard not working,Keyboard not working reported by user.,10/19/2024,,Eve
+140,T140,Low,Closed,Network,Firewall outage,Firewall outage reported by user.,1/29/2024,1/30/2024,Alice
+141,T141,Medium,Closed,Software,Install antivirus,Install antivirus reported by user.,4/19/2024,4/20/2024,Bob
+142,T142,High,Open,Network,Switch failure,Switch failure reported by user.,5/28/2024,,Charlie
+143,T143,High,Resolved,Software,Database deadlock,Database deadlock reported by user.,10/17/2024,10/23/2024,David
+144,T144,Medium,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,12/12/2024,12/15/2024,Eve
+145,T145,Medium,Closed,Hardware,HDD failure,HDD failure reported by user.,6/28/2024,6/29/2024,Alice
+146,T146,High,In Progress,Software,Email bounce issues,Email bounce issues reported by user.,6/2/2024,,Bob
+147,T147,Critical,Open,Hardware,HDD failure,HDD failure reported by user.,5/27/2024,,Charlie
+148,T148,Medium,Resolved,Network,Firewall outage,Firewall outage reported by user.,9/13/2024,9/16/2024,David
+149,T149,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,10/31/2024,11/6/2024,Eve
+150,T150,Medium,Resolved,Software,Email bounce issues,Email bounce issues reported by user.,4/22/2024,4/26/2024,Alice
+151,T151,Medium,Resolved,Network,Firewall outage,Firewall outage reported by user.,12/24/2024,12/27/2024,Bob
+152,T152,High,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,3/27/2024,4/1/2024,Charlie
+153,T153,High,Open,Network,DNS resolution failure,DNS resolution failure reported by user.,9/11/2024,,David
+154,T154,Medium,Closed,Hardware,Screen cracked,Screen cracked reported by user.,4/1/2024,4/7/2024,Eve
+155,T155,High,Open,Hardware,Keyboard not working,Keyboard not working reported by user.,6/30/2024,,Alice
+156,T156,Low,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,6/9/2024,6/14/2024,Bob
+157,T157,High,In Progress,Software,CRM login issues,CRM login issues reported by user.,1/2/2024,,Charlie
+158,T158,Medium,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,7/13/2024,7/18/2024,David
+159,T159,Medium,Resolved,Software,Install antivirus,Install antivirus reported by user.,8/13/2024,8/15/2024,Eve
+160,T160,High,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,7/20/2024,7/21/2024,Alice
+161,T161,Low,Resolved,Software,Install antivirus,Install antivirus reported by user.,1/9/2024,1/10/2024,Bob
+162,T162,High,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,1/4/2024,1/6/2024,Charlie
+163,T163,Low,Resolved,Software,Database deadlock,Database deadlock reported by user.,5/7/2024,5/13/2024,David
+164,T164,High,Open,Hardware,HDD failure,HDD failure reported by user.,3/16/2024,,Eve
+165,T165,Medium,Resolved,Network,DNS resolution failure,DNS resolution failure reported by user.,5/13/2024,5/14/2024,Alice
+166,T166,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,7/8/2024,7/12/2024,Bob
+167,T167,High,Open,Network,DNS resolution failure,DNS resolution failure reported by user.,6/29/2024,,Charlie
+168,T168,High,Open,Network,VPN dropouts,VPN dropouts reported by user.,6/12/2024,,David
+169,T169,Critical,Open,Network,Router outage,Router outage reported by user.,4/20/2024,,Eve
+170,T170,Medium,Closed,Network,Firewall outage,Firewall outage reported by user.,5/27/2024,5/28/2024,Alice
+171,T171,Critical,Open,Network,Router outage,Router outage reported by user.,7/19/2024,,Bob
+172,T172,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,8/4/2024,8/7/2024,Charlie
+173,T173,Low,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,4/11/2024,4/15/2024,David
+174,T174,Critical,In Progress,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,1/17/2024,,Eve
+175,T175,High,In Progress,Network,Firewall outage,Firewall outage reported by user.,9/20/2024,,Alice
+176,T176,High,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,3/29/2024,3/31/2024,Bob
+177,T177,Medium,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,3/26/2024,3/31/2024,Charlie
+178,T178,Medium,Resolved,Software,Application crash,Application crash reported by user.,11/10/2024,11/16/2024,David
+179,T179,High,In Progress,Software,CRM login issues,CRM login issues reported by user.,4/12/2024,,Eve
+180,T180,High,In Progress,Hardware,Keyboard not working,Keyboard not working reported by user.,4/7/2024,,Alice
+181,T181,High,In Progress,Network,Firewall outage,Firewall outage reported by user.,1/15/2024,,Bob
+182,T182,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,6/9/2024,6/12/2024,Charlie
+183,T183,Critical,Resolved,Network,Firewall outage,Firewall outage reported by user.,9/3/2024,9/6/2024,David
+184,T184,Medium,Resolved,Software,Email bounce issues,Email bounce issues reported by user.,11/13/2024,11/17/2024,Eve
+185,T185,High,In Progress,Hardware,Laptop overheating,Laptop overheating reported by user.,12/24/2024,,Alice
+186,T186,Low,Closed,Software,Email bounce issues,Email bounce issues reported by user.,6/6/2024,6/11/2024,Bob
+187,T187,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,3/13/2024,3/17/2024,Charlie
+188,T188,Critical,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,7/16/2024,7/19/2024,David
+189,T189,High,Open,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,7/17/2024,,Eve
+190,T190,High,Open,Software,Database deadlock,Database deadlock reported by user.,8/30/2024,,Alice
+191,T191,Low,Closed,Software,Email bounce issues,Email bounce issues reported by user.,9/15/2024,9/21/2024,Bob
+192,T192,High,In Progress,Software,Install antivirus,Install antivirus reported by user.,8/28/2024,,Charlie
+193,T193,Critical,In Progress,Network,DNS resolution failure,DNS resolution failure reported by user.,6/8/2024,,David
+194,T194,High,In Progress,Hardware,Monitor flicker,Monitor flicker reported by user.,3/8/2024,,Eve
+195,T195,Medium,Closed,Hardware,Laptop overheating,Laptop overheating reported by user.,5/16/2024,5/18/2024,Alice
+196,T196,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,9/17/2024,9/23/2024,Bob
+197,T197,High,Resolved,Software,Install antivirus,Install antivirus reported by user.,2/6/2024,2/11/2024,Charlie
+198,T198,High,In Progress,Software,CRM login issues,CRM login issues reported by user.,11/18/2024,,David
+199,T199,Critical,Resolved,Hardware,Laptop overheating,Laptop overheating reported by user.,9/18/2024,9/22/2024,Eve
+200,T200,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,9/25/2024,9/28/2024,Alice
+201,T201,Medium,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,8/22/2024,8/24/2024,Bob
+202,T202,High,Open,Hardware,Keyboard not working,Keyboard not working reported by user.,6/6/2024,,Charlie
+203,T203,High,Open,Hardware,Screen cracked,Screen cracked reported by user.,1/12/2024,,David
+204,T204,Medium,Resolved,Hardware,Monitor flicker,Monitor flicker reported by user.,1/17/2024,1/22/2024,Eve
+205,T205,Low,Closed,Network,Switch failure,Switch failure reported by user.,3/14/2024,3/18/2024,Alice
+206,T206,Medium,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,10/4/2024,10/6/2024,Bob
+207,T207,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,1/12/2024,1/13/2024,Charlie
+208,T208,High,Resolved,Network,Switch failure,Switch failure reported by user.,7/28/2024,8/2/2024,David
+209,T209,High,Open,Network,VPN dropouts,VPN dropouts reported by user.,1/7/2024,,Eve
+210,T210,Medium,Resolved,Network,Router outage,Router outage reported by user.,1/26/2024,1/30/2024,Alice
+211,T211,Low,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,2/8/2024,2/12/2024,Bob
+212,T212,High,Resolved,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,1/27/2024,1/31/2024,Charlie
+213,T213,Critical,Open,Hardware,Monitor flicker,Monitor flicker reported by user.,3/24/2024,,David
+214,T214,Medium,Resolved,Software,Application crash,Application crash reported by user.,1/15/2024,1/16/2024,Eve
+215,T215,High,Open,Network,VPN dropouts,VPN dropouts reported by user.,3/12/2024,,Alice
+216,T216,High,Resolved,Network,Switch failure,Switch failure reported by user.,12/14/2024,12/17/2024,Bob
+217,T217,High,In Progress,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,8/9/2024,,Charlie
+218,T218,Medium,Resolved,Software,CRM login issues,CRM login issues reported by user.,11/14/2024,11/16/2024,David
+219,T219,Critical,In Progress,Hardware,Keyboard not working,Keyboard not working reported by user.,3/12/2024,,Eve
+220,T220,Medium,Closed,Network,VPN dropouts,VPN dropouts reported by user.,6/14/2024,6/15/2024,Alice
+221,T221,Medium,Resolved,Hardware,Screen cracked,Screen cracked reported by user.,3/16/2024,3/22/2024,Bob
+222,T222,Medium,Closed,Hardware,Keyboard not working,Keyboard not working reported by user.,7/20/2024,7/21/2024,Charlie
+223,T223,High,Open,Hardware,Keyboard not working,Keyboard not working reported by user.,3/17/2024,,David
+224,T224,Critical,Resolved,Software,Application crash,Application crash reported by user.,6/22/2024,6/24/2024,Eve
+225,T225,Low,Resolved,Network,Router outage,Router outage reported by user.,11/12/2024,11/18/2024,Alice
+226,T226,Low,Closed,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,7/22/2024,7/28/2024,Bob
+227,T227,Medium,Resolved,Network,Firewall outage,Firewall outage reported by user.,1/7/2024,1/9/2024,Charlie
+228,T228,Medium,Closed,Network,Wi-Fi instability,Wi-Fi instability reported by user.,5/6/2024,5/9/2024,David
+229,T229,Low,Resolved,Network,Firewall outage,Firewall outage reported by user.,1/12/2024,1/15/2024,Eve
+230,T230,Medium,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,4/28/2024,5/2/2024,Alice
+231,T231,Low,Resolved,Network,VPN dropouts,VPN dropouts reported by user.,5/29/2024,6/1/2024,Bob
+232,T232,Low,Resolved,Network,Router outage,Router outage reported by user.,2/4/2024,2/8/2024,Charlie
+233,T233,Critical,Open,Network,Switch failure,Switch failure reported by user.,1/24/2024,,David
+234,T234,High,In Progress,Software,Database deadlock,Database deadlock reported by user.,6/25/2024,,Eve
+235,T235,High,In Progress,Software,Database deadlock,Database deadlock reported by user.,11/30/2024,,Alice
+236,T236,Critical,In Progress,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,9/2/2024,,Bob
+237,T237,High,Resolved,Network,Switch failure,Switch failure reported by user.,10/8/2024,10/10/2024,Charlie
+238,T238,Medium,Resolved,Software,Install antivirus,Install antivirus reported by user.,10/19/2024,10/25/2024,David
+239,T239,Critical,Open,Network,Wi-Fi instability,Wi-Fi instability reported by user.,1/14/2024,,Eve
+240,T240,Low,Resolved,Hardware,HDD failure,HDD failure reported by user.,12/10/2024,12/15/2024,Alice
+241,T241,Medium,Resolved,Hardware,HDD failure,HDD failure reported by user.,10/29/2024,10/31/2024,Bob
+242,T242,Medium,Resolved,Software,Application crash,Application crash reported by user.,12/26/2024,12/29/2024,Charlie
+243,T243,High,In Progress,Software,Firewall misconfiguration,Firewall misconfiguration reported by user.,10/10/2024,,David
+244,T244,High,Resolved,Hardware,Mouse unresponsive,Mouse unresponsive reported by user.,4/29/2024,5/5/2024,Eve
+245,T245,High,In Progress,Software,Application crash,Application crash reported by user.,11/29/2024,,Alice
+246,T246,Low,Resolved,Hardware,HDD failure,HDD failure reported by user.,4/28/2024,5/1/2024,Bob
+247,T247,Low,Closed,Network,VPN dropouts,VPN dropouts reported by user.,7/24/2024,7/27/2024,Charlie
+248,T248,Low,Resolved,Hardware,Keyboard not working,Keyboard not working reported by user.,11/1/2024,11/4/2024,David
+249,T249,Medium,Resolved,Software,Database deadlock,Database deadlock reported by user.,12/5/2024,12/7/2024,Eve
+250,T250,High,In Progress,Software,Install antivirus,Install antivirus reported by user.,12/6/2024,,Alice

@@ -1,0 +1,410 @@
+dataset_name,category,source,last_updated,record_count,file_size_mb
+Mobile Device Logs Oct 2025,Endpoint Monitoring,Internal MDM,2025-11-08,180000,85.4
+Insider Threat Behavior Indicators Q3 2025,Threat Intelligence,Internal SOC,2025-11-10,3200,14.8
+Cloud API Access Logs Oct 2025,Access Logs,Internal Cloud Platform,2025-11-09,450000,210.5
+External Exploit Kit Reports Nov 2025,Threat Intelligence,External Security Vendor,2025-11-13,8000,11.2
+Data Exfiltration Alerts Sep-Oct 2025,Endpoint Monitoring,Internal DLP,2025-10-26,25000,22.6
+Application Authentication Logs Oct 2025,Access Logs,Internal App Platform,2025-11-04,110000,50.0
+Zero-Day Vulnerability Alerts Nov 2025,Threat Intelligence,External Threat Feed,2025-11-14,3000,6.5
+Internal Penetration Test Findings 2025,Compliance,Internal Red Team,2025-11-05,950,7.9
+Remote Desktop Logs Oct 2025,Network Logs,Internal RDP Server,2025-11-01,380000,200.0
+SaaS Access Logs Oct 2025,Access Logs,External SaaS Provider,2025-11-08,500000,245.3
+Identity Threat Alerts Nov 2025,Threat Intelligence,Internal IAM,2025-11-12,5200,12.0
+Container Security Alerts Oct 2025,Compliance,Internal DevOps Platform,2025-11-09,30000,18.7
+Server Patch Status Oct 2025,Compliance,Internal SCCM,2025-11-06,15000,12.1
+Mobile App Threat Reports Nov 2025,Threat Intelligence,External Malware Repo,2025-11-10,4200,5.7
+Web Login Failures Oct 2025,Access Logs,Internal Web Portal,2025-11-04,270000,95.0
+Email Spoofing Alerts Oct 2025,Threat Intelligence,Internal Email Gateway,2025-11-08,9000,8.4
+Internal HR System Logs Oct 2025,Network Logs,Internal HR Platform,2025-11-03,125000,65.0
+API Gateway Security Events Oct 2025,Network Logs,Internal API Gateway,2025-11-05,280000,140.0
+IoT Firmware Update Logs Oct 2025,Endpoint Monitoring,Internal IoT Platform,2025-11-02,22000,12.0
+Dark Web Marketplace Listings Nov 2025,Threat Intelligence,External Dark Web Feed,2025-11-13,5000,9.3
+External Breach Notifications Nov 2025,Threat Intelligence,External Security Vendor,2025-11-14,3800,4.8
+Internal SOC Audit Findings 2025,Compliance,Internal SOC,2025-11-06,1100,6.1
+Network Device Authentication Logs Oct 2025,Access Logs,Internal Network,2025-11-03,190000,85.7
+Cloud Resource Misconfiguration Alerts Oct 2025,Compliance,Internal Cloud Platform,2025-11-09,6200,14.0
+Malicious Domain Indicators Nov 2025,Threat Intelligence,External DNS Feed,2025-11-12,22000,10.9
+DNS Query Logs Oct 2025,Network Logs,Internal DNS Server,2025-11-04,900000,410.0
+Mobile Device Threat Alerts Oct 2025,Endpoint Monitoring,Internal MDM,2025-11-07,35000,20.1
+External Threat Actor Profiles Nov 2025,Threat Intelligence,External Intelligence Vendor,2025-11-13,7200,14.5
+Internal Git Repository Logs Oct 2025,Network Logs,Internal DevOps Platform,2025-11-05,95000,38.4
+SaaS Security Alerts Oct 2025,Threat Intelligence,External SaaS Provider,2025-11-08,6300,9.2
+Code Vulnerability Scan Results 2025,Compliance,Internal DevSecOps,2025-11-10,8500,21.3
+Internal Server Access Logs Oct 2025,Access Logs,Internal Data Center,2025-11-06,450000,230.0
+External Botnet Reports Nov 2025,Threat Intelligence,External Malware Repo,2025-11-12,9800,11.1
+User Behavior Analytics Alerts Oct 2025,Endpoint Monitoring,Internal UBA System,2025-11-03,52000,29.0
+Privileged Admin Actions Oct 2025,Access Logs,Internal PAM,2025-11-06,2800,3.9
+Internal Finance System Logs Oct 2025,Network Logs,Internal Finance Platform,2025-11-02,150000,70.0
+External Ransomware Activity Reports Nov 2025,Threat Intelligence,External Threat Feed,2025-11-14,6600,12.4
+Database Query Performance Logs Oct 2025,Network Logs,Internal DB,2025-11-03,310000,150.2
+Endpoint Behavior Analysis Logs Oct 2025,Endpoint Monitoring,Internal EDR,2025-11-07,520000,340.0
+External Zero-Day Exploit Data Nov 2025,Threat Intelligence,External Security Vendor,2025-11-13,4800,7.9
+Internal Cloud Audit Logs Oct 2025,Compliance,Internal Cloud Platform,2025-11-09,355000,185.0
+Network Intrusion Attempts Oct 2025,Network Logs,Internal IDS,2025-11-04,220000,110.0
+External Malware Sandbox Results Nov 2025,Threat Intelligence,External Malware Repo,2025-11-12,12400,15.5
+Application Session Metadata Oct 2025,Network Logs,Internal App Platform,2025-11-03,280000,95.0
+Email Threat Intelligence Indicators Nov 2025,Threat Intelligence,Internal Email Gateway,2025-11-10,5500,6.3
+Internal Policy Violation Logs Oct 2025,Compliance,Internal SOC,2025-11-06,3100,4.1
+Cloud Billing Anomaly Reports Oct 2025,Compliance,Internal Cloud Platform,2025-11-08,1800,2.7
+External Credential Leak Reports Nov 2025,Threat Intelligence,External Dark Web Feed,2025-11-13,9000,8.6
+Internal CI/CD Pipeline Logs Oct 2025,Network Logs,Internal DevOps Platform,2025-11-05,130000,60.0
+Security Risk Assessment Reports 2025,Compliance,Internal Audit Team,2025-11-10,2400,9.1
+Internal SMTP Server Logs Oct 2025,Network Logs,Internal Email Gateway,2025-11-08,320000,160.0
+External Threat Correlation Feeds Nov 2025,Threat Intelligence,External Threat Feed,2025-11-14,7800,11.9
+Data Integrity Monitoring Logs Oct 2025,Endpoint Monitoring,Internal DLP,2025-11-06,125000,48.0
+Server Uptime Metrics Q3-Q4 2025,Network Logs,Internal Monitoring System,2025-11-01,55000,22.6
+Cloud IAM Role Changes Oct 2025,Access Logs,Internal Cloud Platform,2025-11-09,8700,5.2
+External Dark Web Password Dumps Nov 2025,Threat Intelligence,External Dark Web Feed,2025-11-14,11200,14.3
+Internal BYOD Device Logs 2025,Endpoint Monitoring,Internal MDM,2025-11-07,180000,72.0
+Container Runtime Alerts Oct 2025,Compliance,Internal DevOps Platform,2025-11-10,42000,20.5
+Firewall Geo-Blocking Logs Sep-Oct 2025,Network Logs,Internal Firewall,2025-10-28,235000,130.0
+Email Attachment Scanning Results Oct 2025,Endpoint Monitoring,Internal Email Gateway,2025-11-08,75000,52.5
+External IOC Aggregation Feed Nov 2025,Threat Intelligence,External Security Vendor,2025-11-14,15000,13.1
+Mobile App Access Logs Oct 2025,Access Logs,Internal MDM,2025-11-07,98000,40.0
+Internal PKI Certificate Logs 2025,Compliance,Internal PKI Server,2025-11-05,26000,12.8
+Server Vulnerability Alerts Oct 2025,Threat Intelligence,Internal Scanner,2025-11-09,14500,18.9
+IoT Access Control Events Oct 2025,Access Logs,Internal IoT Platform,2025-11-04,28000,9.0
+External APT Group Activity Reports Nov 2025,Threat Intelligence,External Intelligence Vendor,2025-11-13,9200,15.4
+Application API Error Logs Oct 2025,Network Logs,Internal App Platform,2025-11-05,150000,75.0
+Cloud Storage Access Logs Oct 2025,Access Logs,Internal Cloud Platform,2025-11-08,450000,190.0
+Internal DevOps Security Findings 2025,Compliance,Internal DevSecOps,2025-11-10,3500,7.3
+External Threat Ranking Index Nov 2025,Threat Intelligence,External Threat Feed,2025-11-14,6800,10.1
+Internal ERP System Logs Oct 2025,Network Logs,Internal ERP Platform,2025-11-02,130000,65.0
+DNS Spoofing Detection Alerts Oct 2025,Threat Intelligence,Internal IDS,2025-11-06,21000,12.4
+Web Form Input Logs Sep-Oct 2025,Network Logs,Internal Web Platform,2025-10-30,80000,33.8
+SaaS Email Activity Logs Oct 2025,Access Logs,External SaaS Provider,2025-11-09,550000,260.1
+External CVE Intelligence Feed Nov 2025,Threat Intelligence,External Security Vendor,2025-11-14,24000,16.2
+Endpoint Login Session Data Oct 2025,Endpoint Monitoring,Internal EDR,2025-11-07,310000,155.0
+Database Migration Audit Logs 2025,Compliance,Internal DB,2025-11-03,4500,10.0
+Network Throughput Metrics Oct 2025,Network Logs,Internal Monitoring System,2025-11-05,400000,210.0
+Cloud Key Management Logs Oct 2025,Compliance,Internal KMS,2025-11-09,12000,7.6
+Internal Ransomware Simulation Results 2025,Threat Intelligence,Internal SOC,2025-11-06,1400,3.9
+External Botnet C2 Tracking Feed Nov 2025,Threat Intelligence,External Threat Feed,2025-11-13,11800,14.0
+IoT Device Crash Logs Oct 2025,Endpoint Monitoring,Internal IoT Platform,2025-11-03,18000,8.5
+Mobile App Crash Reports Oct 2025,Endpoint Monitoring,Internal MDM,2025-11-07,28000,11.9
+Cloud Resource Utilization Logs Oct 2025,Network Logs,Internal Cloud Platform,2025-11-05,500000,280.0
+Credentials Monitoring Alerts Nov 2025,Threat Intelligence,External Dark Web Feed,2025-11-14,9500,7.8
+Internal Policy Change Logs Oct 2025,Compliance,Internal Audit Team,2025-11-06,1600,2.2
+IoT Device Connection Metrics Oct 2025,Network Logs,Internal IoT Platform,2025-11-02,95000,42.7
+External Exploit Marketplace Listings Nov 2025,Threat Intelligence,External Dark Web Feed,2025-11-13,7800,10.4
+Cloud API Security Findings Oct 2025,Compliance,Internal Cloud Platform,2025-11-09,2100,5.1
+Internal Machine Learning Model Logs Oct 2025,Network Logs,Internal AI Platform,2025-11-04,85000,35.0
+Application Deployment Logs Oct 2025,Network Logs,Internal DevOps Platform,2025-11-05,120000,55.0
+External Social Engineering Alerts Nov 2025,Threat Intelligence,External Security Vendor,2025-11-14,5400,6.7
+Internal Data Retention Logs 2025,Compliance,Internal Storage System,2025-11-06,3000,4.5
+Database Encryption Key Logs Oct 2025,Compliance,Internal KMS,2025-11-08,13000,6.4
+Cloud Container Access Logs Oct 2025,Access Logs,Internal Cloud Platform,2025-11-09,175000,78.0
+Internal SSO Authentication Logs Oct 2025,Access Logs,Internal IAM,2025-11-07,520000,250.0
+Distributed System Event Logs Oct 2025,Network Logs,Internal Microservices Platform,2025-11-03,390000,195.0
+Encrypted Traffic Inspection Logs Oct 2025,Network Logs,Internal Firewall,2025-11-04,180000,98.0
+Mobile Device Logs Oct 2025,Endpoint Monitoring,Internal MDM,2025-11-08,180000,85.4
+Insider Threat Behavior Indicators Q3 2025,Threat Intelligence,Internal SOC,2025-11-10,3200,14.8
+Cloud API Access Logs Oct 2025,Access Logs,Internal Cloud Platform,2025-11-09,450000,210.5
+External Exploit Kit Reports Nov 2025,Threat Intelligence,External Security Vendor,2025-11-13,8000,11.2
+Data Exfiltration Alerts Sep-Oct 2025,Endpoint Monitoring,Internal DLP,2025-10-26,25000,22.6
+Application Authentication Logs Oct 2025,Access Logs,Internal App Platform,2025-11-04,110000,50.0
+Zero-Day Vulnerability Alerts Nov 2025,Threat Intelligence,External Threat Feed,2025-11-14,3000,6.5
+Internal Penetration Test Findings 2025,Compliance,Internal Red Team,2025-11-05,950,7.9
+Remote Desktop Logs Oct 2025,Network Logs,Internal RDP Server,2025-11-01,380000,200.0
+SaaS Access Logs Oct 2025,Access Logs,External SaaS Provider,2025-11-08,500000,245.3
+Endpoint Monitoring Dataset 100 2025,Endpoint Monitoring,Internal MDM,2025-05-21,257787,77.57
+Endpoint Monitoring Dataset 101 2025,Endpoint Monitoring,Internal IoT Platform,2025-02-14,620176,297.52
+Endpoint Monitoring Dataset 102 2025,Endpoint Monitoring,Internal MDM,2025-04-22,244962,135.91
+Endpoint Monitoring Dataset 103 2025,Endpoint Monitoring,Internal IoT Platform,2025-04-12,751800,514.9
+Compliance Dataset 104 2025,Compliance,Internal DevSecOps,2025-04-23,472029,297.54
+Endpoint Monitoring Dataset 105 2025,Endpoint Monitoring,Internal EDR,2025-12-24,444143,180.42
+Threat Intelligence Dataset 106 2025,Threat Intelligence,External Dark Web Feed,2025-06-22,108175,19.85
+Endpoint Monitoring Dataset 107 2025,Endpoint Monitoring,Internal DLP,2025-06-26,634052,214.35
+Endpoint Monitoring Dataset 108 2025,Endpoint Monitoring,Internal UBA System,2025-10-02,131889,128.7
+Access Logs Dataset 109 2025,Access Logs,Internal Cloud Platform,2025-10-10,308419,261.07
+Compliance Dataset 110 2025,Compliance,Internal Audit Team,2025-10-23,202629,148.75
+Endpoint Monitoring Dataset 111 2025,Endpoint Monitoring,Internal EDR,2025-05-29,84667,73.64
+Endpoint Monitoring Dataset 112 2025,Endpoint Monitoring,Internal UBA System,2025-05-23,476435,320.22
+Network Logs Dataset 113 2025,Network Logs,Internal DNS Server,2025-07-09,373528,107.78
+Network Logs Dataset 114 2025,Network Logs,Internal Microservices Platform,2025-11-28,75870,49.18
+Threat Intelligence Dataset 115 2025,Threat Intelligence,External Dark Web Feed,2025-03-25,485714,214.45
+Compliance Dataset 116 2025,Compliance,Internal SOC,2025-12-17,341035,292.8
+Endpoint Monitoring Dataset 117 2025,Endpoint Monitoring,Internal EDR,2025-01-17,845151,324.46
+Network Logs Dataset 118 2025,Network Logs,Internal API Gateway,2025-04-19,958492,909.24
+Network Logs Dataset 119 2025,Network Logs,Internal HR Platform,2025-12-02,524481,239.2
+Access Logs Dataset 120 2025,Access Logs,Internal App Platform,2025-05-16,147413,47.46
+Compliance Dataset 121 2025,Compliance,Internal PKI Server,2025-05-15,784300,491.07
+Compliance Dataset 122 2025,Compliance,Internal DevSecOps,2025-07-05,230974,230.42
+Threat Intelligence Dataset 123 2025,Threat Intelligence,Internal Email Gateway,2025-02-16,793495,113.0
+Endpoint Monitoring Dataset 124 2025,Endpoint Monitoring,Internal EDR,2025-11-18,168753,137.17
+Access Logs Dataset 125 2025,Access Logs,External SaaS Provider,2025-02-02,404457,179.36
+Access Logs Dataset 126 2025,Access Logs,External SaaS Provider,2025-05-09,581099,508.29
+Endpoint Monitoring Dataset 127 2025,Endpoint Monitoring,Internal MDM,2025-12-16,928767,541.72
+Network Logs Dataset 128 2025,Network Logs,Internal Microservices Platform,2025-06-24,117970,42.96
+Threat Intelligence Dataset 129 2025,Threat Intelligence,Internal Email Gateway,2025-01-02,758168,673.46
+Network Logs Dataset 130 2025,Network Logs,Internal ERP Platform,2025-04-02,533342,491.4
+Network Logs Dataset 131 2025,Network Logs,Internal Microservices Platform,2025-09-17,639551,178.45
+Network Logs Dataset 132 2025,Network Logs,Internal DNS Server,2025-10-04,817449,760.38
+Endpoint Monitoring Dataset 133 2025,Endpoint Monitoring,Internal IoT Platform,2025-06-15,513340,60.33
+Network Logs Dataset 134 2025,Network Logs,Internal Finance Platform,2025-05-03,61738,19.56
+Compliance Dataset 135 2025,Compliance,Internal SCCM,2025-02-13,768460,412.96
+Endpoint Monitoring Dataset 136 2025,Endpoint Monitoring,Internal IoT Platform,2025-03-06,135628,94.1
+Compliance Dataset 137 2025,Compliance,Internal DevOps Platform,2025-05-16,554306,490.67
+Access Logs Dataset 138 2025,Access Logs,Internal App Platform,2025-10-04,792952,600.22
+Threat Intelligence Dataset 139 2025,Threat Intelligence,External Threat Feed,2025-07-24,705314,483.06
+Access Logs Dataset 140 2025,Access Logs,External SaaS Provider,2025-08-20,127882,41.32
+Endpoint Monitoring Dataset 141 2025,Endpoint Monitoring,Internal DLP,2025-01-11,617886,369.82
+Compliance Dataset 142 2025,Compliance,Internal SOC,2025-01-04,75441,55.6
+Endpoint Monitoring Dataset 143 2025,Endpoint Monitoring,Internal EDR,2025-02-04,950401,121.91
+Network Logs Dataset 144 2025,Network Logs,Internal API Gateway,2025-09-21,250565,87.86
+Access Logs Dataset 145 2025,Access Logs,Internal App Platform,2025-10-04,139739,104.95
+Compliance Dataset 146 2025,Compliance,Internal Storage System,2025-05-05,823733,433.02
+Access Logs Dataset 147 2025,Access Logs,Internal App Platform,2025-02-18,102639,71.14
+Network Logs Dataset 148 2025,Network Logs,Internal DB,2025-07-30,490710,430.57
+Endpoint Monitoring Dataset 149 2025,Endpoint Monitoring,Internal MDM,2025-02-01,423179,319.67
+Endpoint Monitoring Dataset 150 2025,Endpoint Monitoring,Internal EDR,2025-04-09,200448,116.79
+Threat Intelligence Dataset 151 2025,Threat Intelligence,External Intelligence Vendor,2025-04-04,293075,151.33
+Endpoint Monitoring Dataset 152 2025,Endpoint Monitoring,Internal UBA System,2025-10-09,103664,15.09
+Compliance Dataset 153 2025,Compliance,Internal Red Team,2025-02-17,972366,756.7
+Threat Intelligence Dataset 154 2025,Threat Intelligence,External Security Vendor,2025-07-28,510231,272.07
+Access Logs Dataset 155 2025,Access Logs,Internal Cloud Platform,2025-03-26,398382,40.61
+Access Logs Dataset 156 2025,Access Logs,Internal PAM,2025-08-21,300105,144.26
+Compliance Dataset 157 2025,Compliance,Internal Storage System,2025-03-21,200122,73.45
+Endpoint Monitoring Dataset 158 2025,Endpoint Monitoring,Internal IoT Platform,2025-10-05,64918,50.19
+Endpoint Monitoring Dataset 159 2025,Endpoint Monitoring,Internal MDM,2025-10-27,500948,276.81
+Compliance Dataset 160 2025,Compliance,Internal DevOps Platform,2025-01-30,533496,91.81
+Threat Intelligence Dataset 161 2025,Threat Intelligence,Internal IAM,2025-11-01,72262,51.14
+Threat Intelligence Dataset 162 2025,Threat Intelligence,External Intelligence Vendor,2025-03-03,988335,890.75
+Threat Intelligence Dataset 163 2025,Threat Intelligence,Internal SOC,2025-11-14,86965,41.51
+Compliance Dataset 164 2025,Compliance,Internal PKI Server,2025-06-11,981110,328.37
+Network Logs Dataset 165 2025,Network Logs,Internal HR Platform,2025-05-16,416011,90.6
+Network Logs Dataset 166 2025,Network Logs,Internal Monitoring System,2025-06-11,975146,757.37
+Endpoint Monitoring Dataset 167 2025,Endpoint Monitoring,Internal MDM,2025-08-23,652332,651.42
+Endpoint Monitoring Dataset 168 2025,Endpoint Monitoring,Internal MDM,2025-10-03,224508,124.67
+Threat Intelligence Dataset 169 2025,Threat Intelligence,External Malware Repo,2025-02-05,922981,295.22
+Network Logs Dataset 170 2025,Network Logs,Internal DNS Server,2025-08-13,875244,515.43
+Network Logs Dataset 171 2025,Network Logs,Internal Firewall,2025-12-01,555634,59.48
+Compliance Dataset 172 2025,Compliance,Internal KMS,2025-12-06,109618,103.59
+Threat Intelligence Dataset 173 2025,Threat Intelligence,External Threat Feed,2025-03-01,933931,183.36
+Compliance Dataset 174 2025,Compliance,Internal DevOps Platform,2025-05-20,296442,191.01
+Network Logs Dataset 175 2025,Network Logs,Internal HR Platform,2025-12-18,666046,577.88
+Compliance Dataset 176 2025,Compliance,Internal Storage System,2025-05-09,950314,871.76
+Endpoint Monitoring Dataset 177 2025,Endpoint Monitoring,Internal MDM,2025-11-21,445151,376.78
+Endpoint Monitoring Dataset 178 2025,Endpoint Monitoring,Internal MDM,2025-06-20,809577,176.28
+Network Logs Dataset 179 2025,Network Logs,Internal DNS Server,2025-08-15,579478,425.97
+Compliance Dataset 180 2025,Compliance,Internal Red Team,2025-02-27,79898,75.95
+Threat Intelligence Dataset 181 2025,Threat Intelligence,Internal SOC,2025-07-09,611805,365.41
+Access Logs Dataset 182 2025,Access Logs,Internal App Platform,2025-01-22,324232,138.83
+Endpoint Monitoring Dataset 183 2025,Endpoint Monitoring,Internal DLP,2025-04-18,716198,232.46
+Endpoint Monitoring Dataset 184 2025,Endpoint Monitoring,Internal DLP,2025-10-14,928082,823.43
+Compliance Dataset 185 2025,Compliance,Internal DevOps Platform,2025-05-02,907604,223.5
+Threat Intelligence Dataset 186 2025,Threat Intelligence,External Intelligence Vendor,2025-01-13,189073,144.25
+Network Logs Dataset 187 2025,Network Logs,Internal DB,2025-12-09,907036,690.75
+Threat Intelligence Dataset 188 2025,Threat Intelligence,External Threat Feed,2025-03-23,826622,604.38
+Access Logs Dataset 189 2025,Access Logs,Internal Cloud Platform,2025-08-29,234238,65.5
+Access Logs Dataset 190 2025,Access Logs,Internal PAM,2025-06-06,861394,702.73
+Threat Intelligence Dataset 191 2025,Threat Intelligence,External Dark Web Feed,2025-01-13,693094,189.78
+Network Logs Dataset 192 2025,Network Logs,Internal Finance Platform,2025-02-05,811891,285.15
+Compliance Dataset 193 2025,Compliance,Internal DevSecOps,2025-12-14,885642,515.97
+Endpoint Monitoring Dataset 194 2025,Endpoint Monitoring,Internal MDM,2025-05-14,188241,117.19
+Network Logs Dataset 195 2025,Network Logs,Internal RDP Server,2025-02-25,626550,307.7
+Network Logs Dataset 196 2025,Network Logs,Internal DB,2025-11-07,537265,109.65
+Compliance Dataset 197 2025,Compliance,Internal SOC,2025-05-11,47542,35.08
+Endpoint Monitoring Dataset 198 2025,Endpoint Monitoring,Internal IoT Platform,2025-10-03,721221,539.1
+Threat Intelligence Dataset 199 2025,Threat Intelligence,External Malware Repo,2025-08-09,74372,70.95
+Network Logs Dataset 200 2025,Network Logs,Internal Firewall,2025-06-10,696612,601.33
+Network Logs Dataset 201 2025,Network Logs,Internal ERP Platform,2025-06-08,700287,327.42
+Access Logs Dataset 202 2025,Access Logs,Internal PAM,2025-10-11,134470,36.66
+Access Logs Dataset 203 2025,Access Logs,Internal App Platform,2025-11-12,597750,221.68
+Compliance Dataset 204 2025,Compliance,Internal Red Team,2025-06-05,301850,87.28
+Compliance Dataset 205 2025,Compliance,Internal Audit Team,2025-08-27,464246,231.17
+Threat Intelligence Dataset 206 2025,Threat Intelligence,Internal Email Gateway,2025-03-28,691855,121.99
+Compliance Dataset 207 2025,Compliance,Internal Audit Team,2025-02-17,859179,822.06
+Threat Intelligence Dataset 208 2025,Threat Intelligence,External Threat Feed,2025-04-26,846742,236.42
+Endpoint Monitoring Dataset 209 2025,Endpoint Monitoring,Internal MDM,2025-05-06,499216,324.56
+Endpoint Monitoring Dataset 210 2025,Endpoint Monitoring,Internal UBA System,2025-08-01,930181,620.23
+Threat Intelligence Dataset 211 2025,Threat Intelligence,External Intelligence Vendor,2025-09-11,420066,134.25
+Endpoint Monitoring Dataset 212 2025,Endpoint Monitoring,Internal MDM,2025-08-06,230471,59.53
+Compliance Dataset 213 2025,Compliance,Internal Storage System,2025-01-26,585482,189.86
+Endpoint Monitoring Dataset 214 2025,Endpoint Monitoring,Internal UBA System,2025-03-10,841346,435.97
+Compliance Dataset 215 2025,Compliance,Internal PKI Server,2025-11-01,333711,318.71
+Access Logs Dataset 216 2025,Access Logs,External SaaS Provider,2025-09-16,448470,380.08
+Compliance Dataset 217 2025,Compliance,Internal Storage System,2025-03-23,780779,683.45
+Access Logs Dataset 218 2025,Access Logs,Internal PAM,2025-05-07,881660,594.15
+Compliance Dataset 219 2025,Compliance,Internal Storage System,2025-11-17,251867,87.43
+Endpoint Monitoring Dataset 220 2025,Endpoint Monitoring,Internal DLP,2025-05-01,285913,115.01
+Compliance Dataset 221 2025,Compliance,Internal SCCM,2025-03-12,159157,49.04
+Threat Intelligence Dataset 222 2025,Threat Intelligence,External Dark Web Feed,2025-02-02,436020,203.55
+Compliance Dataset 223 2025,Compliance,Internal Storage System,2025-08-01,66290,18.97
+Access Logs Dataset 224 2025,Access Logs,Internal IAM,2025-10-27,993017,720.9
+Compliance Dataset 225 2025,Compliance,Internal DevSecOps,2025-09-02,7182,6.81
+Network Logs Dataset 226 2025,Network Logs,Internal DB,2025-08-03,565365,436.89
+Compliance Dataset 227 2025,Compliance,Internal SOC,2025-09-07,231080,79.87
+Access Logs Dataset 228 2025,Access Logs,Internal Cloud Platform,2025-07-19,353457,248.12
+Access Logs Dataset 229 2025,Access Logs,Internal App Platform,2025-08-28,965209,207.39
+Compliance Dataset 230 2025,Compliance,Internal PKI Server,2025-01-14,951983,432.79
+Compliance Dataset 231 2025,Compliance,Internal Red Team,2025-02-12,674971,327.87
+Access Logs Dataset 232 2025,Access Logs,Internal App Platform,2025-01-26,273793,120.8
+Threat Intelligence Dataset 233 2025,Threat Intelligence,Internal Email Gateway,2025-06-17,354894,278.63
+Access Logs Dataset 234 2025,Access Logs,Internal PAM,2025-08-04,265525,226.07
+Access Logs Dataset 235 2025,Access Logs,Internal Cloud Platform,2025-10-04,55615,55.61
+Network Logs Dataset 236 2025,Network Logs,Internal HR Platform,2025-11-29,72951,58.59
+Endpoint Monitoring Dataset 237 2025,Endpoint Monitoring,Internal MDM,2025-05-07,210044,179.65
+Compliance Dataset 238 2025,Compliance,Internal DevOps Platform,2025-05-03,133352,70.17
+Endpoint Monitoring Dataset 239 2025,Endpoint Monitoring,Internal IoT Platform,2025-04-22,488623,356.46
+Network Logs Dataset 240 2025,Network Logs,Internal DNS Server,2025-11-07,637745,616.93
+Endpoint Monitoring Dataset 241 2025,Endpoint Monitoring,Internal EDR,2025-06-09,114349,70.99
+Network Logs Dataset 242 2025,Network Logs,Internal Firewall,2025-12-13,953134,917.25
+Access Logs Dataset 243 2025,Access Logs,Internal App Platform,2025-02-08,621859,448.7
+Threat Intelligence Dataset 244 2025,Threat Intelligence,Internal IAM,2025-12-23,811004,301.23
+Compliance Dataset 245 2025,Compliance,Internal SCCM,2025-10-17,821652,112.54
+Compliance Dataset 246 2025,Compliance,Internal DevSecOps,2025-12-05,389571,63.13
+Network Logs Dataset 247 2025,Network Logs,Internal RDP Server,2025-08-04,863276,467.19
+Access Logs Dataset 248 2025,Access Logs,Internal PAM,2025-11-22,935884,791.6
+Threat Intelligence Dataset 249 2025,Threat Intelligence,External Intelligence Vendor,2025-04-01,770440,438.82
+Network Logs Dataset 250 2025,Network Logs,Internal Firewall,2025-10-03,813270,435.22
+Access Logs Dataset 251 2025,Access Logs,External SaaS Provider,2025-05-18,338960,293.72
+Endpoint Monitoring Dataset 252 2025,Endpoint Monitoring,Internal DLP,2025-08-19,256709,199.06
+Compliance Dataset 253 2025,Compliance,Internal DevSecOps,2025-06-22,31094,16.94
+Network Logs Dataset 254 2025,Network Logs,Internal DNS Server,2025-09-07,223423,93.69
+Network Logs Dataset 255 2025,Network Logs,Internal DevOps Platform,2025-05-24,924082,588.21
+Network Logs Dataset 256 2025,Network Logs,Internal ERP Platform,2025-01-06,542722,517.35
+Endpoint Monitoring Dataset 257 2025,Endpoint Monitoring,Internal EDR,2025-07-28,513311,307.81
+Threat Intelligence Dataset 258 2025,Threat Intelligence,Internal Email Gateway,2025-11-27,747420,404.91
+Endpoint Monitoring Dataset 259 2025,Endpoint Monitoring,Internal MDM,2025-05-31,233360,108.27
+Threat Intelligence Dataset 260 2025,Threat Intelligence,External Threat Feed,2025-12-06,610805,263.94
+Compliance Dataset 261 2025,Compliance,Internal PKI Server,2025-06-26,447173,445.82
+Compliance Dataset 262 2025,Compliance,Internal Audit Team,2025-06-30,737996,375.18
+Network Logs Dataset 263 2025,Network Logs,Internal Finance Platform,2025-04-29,127516,95.53
+Network Logs Dataset 264 2025,Network Logs,Internal API Gateway,2025-10-02,998067,784.45
+Threat Intelligence Dataset 265 2025,Threat Intelligence,External Dark Web Feed,2025-04-21,775483,415.49
+Compliance Dataset 266 2025,Compliance,Internal PKI Server,2025-11-02,297745,292.52
+Threat Intelligence Dataset 267 2025,Threat Intelligence,External Threat Feed,2025-04-27,379411,99.21
+Endpoint Monitoring Dataset 268 2025,Endpoint Monitoring,Internal IoT Platform,2025-03-06,288636,40.69
+Endpoint Monitoring Dataset 269 2025,Endpoint Monitoring,Internal IoT Platform,2025-05-30,732295,695.45
+Access Logs Dataset 270 2025,Access Logs,Internal Cloud Platform,2025-01-07,602949,214.59
+Access Logs Dataset 271 2025,Access Logs,Internal IAM,2025-06-24,194319,188.28
+Network Logs Dataset 272 2025,Network Logs,Internal Monitoring System,2025-02-28,863050,137.06
+Access Logs Dataset 273 2025,Access Logs,Internal Cloud Platform,2025-10-23,661021,474.48
+Threat Intelligence Dataset 274 2025,Threat Intelligence,External Security Vendor,2025-10-16,996230,372.04
+Threat Intelligence Dataset 275 2025,Threat Intelligence,Internal IAM,2025-10-13,802577,380.87
+Compliance Dataset 276 2025,Compliance,Internal SOC,2025-09-25,399855,202.11
+Access Logs Dataset 277 2025,Access Logs,Internal PAM,2025-10-29,450660,168.93
+Compliance Dataset 278 2025,Compliance,Internal Red Team,2025-11-09,777039,147.1
+Threat Intelligence Dataset 279 2025,Threat Intelligence,External Dark Web Feed,2025-05-16,693509,120.02
+Threat Intelligence Dataset 280 2025,Threat Intelligence,External Security Vendor,2025-10-10,79711,19.2
+Access Logs Dataset 281 2025,Access Logs,Internal IAM,2025-12-19,623656,326.12
+Endpoint Monitoring Dataset 282 2025,Endpoint Monitoring,Internal EDR,2025-05-28,742296,263.1
+Access Logs Dataset 283 2025,Access Logs,Internal Cloud Platform,2025-12-18,245762,228.93
+Compliance Dataset 284 2025,Compliance,Internal SOC,2025-08-06,121351,71.61
+Threat Intelligence Dataset 285 2025,Threat Intelligence,External Threat Feed,2025-03-14,75878,11.66
+Network Logs Dataset 286 2025,Network Logs,Internal Firewall,2025-10-19,966940,347.86
+Endpoint Monitoring Dataset 287 2025,Endpoint Monitoring,Internal UBA System,2025-12-19,319862,233.42
+Network Logs Dataset 288 2025,Network Logs,Internal ERP Platform,2025-10-04,518781,256.27
+Compliance Dataset 289 2025,Compliance,Internal Red Team,2025-08-10,771214,300.84
+Network Logs Dataset 290 2025,Network Logs,Internal RDP Server,2025-02-16,241044,232.78
+Compliance Dataset 291 2025,Compliance,Internal Red Team,2025-12-11,862322,295.4
+Endpoint Monitoring Dataset 292 2025,Endpoint Monitoring,Internal EDR,2025-08-29,545173,374.18
+Network Logs Dataset 293 2025,Network Logs,Internal DNS Server,2025-10-27,458058,307.5
+Access Logs Dataset 294 2025,Access Logs,Internal Cloud Platform,2025-08-29,365863,171.05
+Network Logs Dataset 295 2025,Network Logs,Internal Microservices Platform,2025-02-23,900398,220.37
+Access Logs Dataset 296 2025,Access Logs,Internal IAM,2025-05-28,695769,661.45
+Compliance Dataset 297 2025,Compliance,Internal Red Team,2025-08-21,93337,35.75
+Network Logs Dataset 298 2025,Network Logs,Internal API Gateway,2025-07-26,907924,511.29
+Endpoint Monitoring Dataset 299 2025,Endpoint Monitoring,Internal IoT Platform,2025-08-25,434321,64.62
+Compliance Dataset 300 2025,Compliance,Internal Audit Team,2025-11-15,794188,435.73
+Access Logs Dataset 301 2025,Access Logs,Internal Cloud Platform,2025-04-15,281028,167.01
+Network Logs Dataset 302 2025,Network Logs,Internal Monitoring System,2025-12-24,509257,106.58
+Compliance Dataset 303 2025,Compliance,Internal SOC,2025-12-30,167071,63.43
+Endpoint Monitoring Dataset 304 2025,Endpoint Monitoring,Internal IoT Platform,2025-07-28,98736,29.84
+Endpoint Monitoring Dataset 305 2025,Endpoint Monitoring,Internal UBA System,2025-03-02,680172,577.42
+Access Logs Dataset 306 2025,Access Logs,Internal PAM,2025-09-18,740677,256.34
+Access Logs Dataset 307 2025,Access Logs,Internal IAM,2025-05-05,479975,286.13
+Access Logs Dataset 308 2025,Access Logs,Internal App Platform,2025-11-03,533929,412.01
+Threat Intelligence Dataset 309 2025,Threat Intelligence,Internal IAM,2025-05-22,811208,657.89
+Access Logs Dataset 310 2025,Access Logs,Internal PAM,2025-09-17,281150,235.74
+Network Logs Dataset 311 2025,Network Logs,Internal Finance Platform,2025-10-28,609093,608.49
+Access Logs Dataset 312 2025,Access Logs,Internal App Platform,2025-08-17,565742,303.19
+Network Logs Dataset 313 2025,Network Logs,Internal ERP Platform,2025-10-06,396533,202.16
+Network Logs Dataset 314 2025,Network Logs,Internal HR Platform,2025-12-24,251405,154.52
+Threat Intelligence Dataset 315 2025,Threat Intelligence,External Intelligence Vendor,2025-01-23,334632,257.75
+Access Logs Dataset 316 2025,Access Logs,Internal IAM,2025-12-06,831884,697.68
+Threat Intelligence Dataset 317 2025,Threat Intelligence,Internal Email Gateway,2025-01-19,133378,73.63
+Compliance Dataset 318 2025,Compliance,Internal Audit Team,2025-02-21,917655,789.67
+Endpoint Monitoring Dataset 319 2025,Endpoint Monitoring,Internal IoT Platform,2025-08-22,17093,12.82
+Access Logs Dataset 320 2025,Access Logs,Internal App Platform,2025-02-08,493296,396.3
+Network Logs Dataset 321 2025,Network Logs,Internal DevOps Platform,2025-11-16,727353,332.93
+Endpoint Monitoring Dataset 322 2025,Endpoint Monitoring,Internal DLP,2025-12-12,902085,523.44
+Network Logs Dataset 323 2025,Network Logs,Internal Microservices Platform,2025-09-07,915759,537.47
+Compliance Dataset 324 2025,Compliance,Internal SCCM,2025-05-01,662820,474.55
+Network Logs Dataset 325 2025,Network Logs,Internal HR Platform,2025-02-16,456052,447.16
+Endpoint Monitoring Dataset 326 2025,Endpoint Monitoring,Internal UBA System,2025-03-27,728712,269.27
+Endpoint Monitoring Dataset 327 2025,Endpoint Monitoring,Internal MDM,2025-06-16,835816,125.8
+Network Logs Dataset 328 2025,Network Logs,Internal DevOps Platform,2025-08-09,153640,49.13
+Access Logs Dataset 329 2025,Access Logs,External SaaS Provider,2025-12-16,832016,218.03
+Threat Intelligence Dataset 330 2025,Threat Intelligence,Internal IAM,2025-11-09,914141,406.14
+Threat Intelligence Dataset 331 2025,Threat Intelligence,Internal Email Gateway,2025-10-26,151069,46.68
+Network Logs Dataset 332 2025,Network Logs,Internal Monitoring System,2025-05-11,700233,75.95
+Access Logs Dataset 333 2025,Access Logs,Internal PAM,2025-12-13,574149,139.05
+Access Logs Dataset 334 2025,Access Logs,Internal PAM,2025-10-28,314685,212.43
+Access Logs Dataset 335 2025,Access Logs,Internal PAM,2025-08-22,887365,330.02
+Access Logs Dataset 336 2025,Access Logs,Internal IAM,2025-02-24,249728,110.69
+Network Logs Dataset 337 2025,Network Logs,Internal Firewall,2025-06-01,734247,268.52
+Access Logs Dataset 338 2025,Access Logs,Internal PAM,2025-01-05,594419,522.23
+Endpoint Monitoring Dataset 339 2025,Endpoint Monitoring,Internal IoT Platform,2025-09-12,874294,798.88
+Network Logs Dataset 340 2025,Network Logs,Internal HR Platform,2025-11-07,841886,351.14
+Threat Intelligence Dataset 341 2025,Threat Intelligence,External Threat Feed,2025-12-14,793280,594.04
+Threat Intelligence Dataset 342 2025,Threat Intelligence,Internal IAM,2025-11-18,678737,91.96
+Access Logs Dataset 343 2025,Access Logs,Internal Cloud Platform,2025-10-24,383584,291.19
+Endpoint Monitoring Dataset 344 2025,Endpoint Monitoring,Internal DLP,2025-06-17,784790,371.95
+Threat Intelligence Dataset 345 2025,Threat Intelligence,External Security Vendor,2025-10-04,920035,896.43
+Compliance Dataset 346 2025,Compliance,Internal PKI Server,2025-05-20,871813,216.29
+Access Logs Dataset 347 2025,Access Logs,Internal PAM,2025-06-23,844298,171.94
+Endpoint Monitoring Dataset 348 2025,Endpoint Monitoring,Internal EDR,2025-04-26,902922,639.89
+Access Logs Dataset 349 2025,Access Logs,External SaaS Provider,2025-07-07,95689,77.66
+Endpoint Monitoring Dataset 350 2025,Endpoint Monitoring,Internal DLP,2025-10-02,130592,66.51
+Network Logs Dataset 351 2025,Network Logs,Internal Firewall,2025-07-15,863367,582.51
+Network Logs Dataset 352 2025,Network Logs,Internal API Gateway,2025-12-12,246180,129.08
+Compliance Dataset 353 2025,Compliance,Internal PKI Server,2025-06-17,960715,623.58
+Endpoint Monitoring Dataset 354 2025,Endpoint Monitoring,Internal UBA System,2025-12-25,317869,217.52
+Endpoint Monitoring Dataset 355 2025,Endpoint Monitoring,Internal EDR,2025-01-24,993227,132.59
+Access Logs Dataset 356 2025,Access Logs,Internal Cloud Platform,2025-02-19,247205,222.12
+Threat Intelligence Dataset 357 2025,Threat Intelligence,External Intelligence Vendor,2025-08-21,390033,274.36
+Compliance Dataset 358 2025,Compliance,Internal DevSecOps,2025-10-28,779325,587.56
+Access Logs Dataset 359 2025,Access Logs,Internal Cloud Platform,2025-09-08,646558,302.14
+Network Logs Dataset 360 2025,Network Logs,Internal RDP Server,2025-12-20,389528,115.12
+Access Logs Dataset 361 2025,Access Logs,Internal App Platform,2025-07-05,105180,103.37
+Network Logs Dataset 362 2025,Network Logs,Internal ERP Platform,2025-11-27,377096,58.26
+Network Logs Dataset 363 2025,Network Logs,Internal HR Platform,2025-03-04,996109,859.87
+Access Logs Dataset 364 2025,Access Logs,Internal Cloud Platform,2025-12-06,223409,151.37
+Compliance Dataset 365 2025,Compliance,Internal Red Team,2025-01-26,826013,330.54
+Threat Intelligence Dataset 366 2025,Threat Intelligence,External Dark Web Feed,2025-02-05,871127,687.01
+Threat Intelligence Dataset 367 2025,Threat Intelligence,External Dark Web Feed,2025-04-30,345519,275.36
+Compliance Dataset 368 2025,Compliance,Internal Red Team,2025-05-22,901104,888.15
+Threat Intelligence Dataset 369 2025,Threat Intelligence,External Threat Feed,2025-03-31,116266,80.8
+Endpoint Monitoring Dataset 370 2025,Endpoint Monitoring,Internal EDR,2025-01-08,376644,305.45
+Threat Intelligence Dataset 371 2025,Threat Intelligence,External Malware Repo,2025-01-09,183710,62.25
+Threat Intelligence Dataset 372 2025,Threat Intelligence,External Intelligence Vendor,2025-09-27,120169,92.66
+Access Logs Dataset 373 2025,Access Logs,Internal IAM,2025-07-05,539169,341.99
+Access Logs Dataset 374 2025,Access Logs,External SaaS Provider,2025-04-24,992340,648.59
+Compliance Dataset 375 2025,Compliance,Internal KMS,2025-08-23,675591,653.72
+Endpoint Monitoring Dataset 376 2025,Endpoint Monitoring,Internal UBA System,2025-07-25,447980,321.42
+Access Logs Dataset 377 2025,Access Logs,Internal IAM,2025-02-07,943949,163.03
+Compliance Dataset 378 2025,Compliance,Internal DevOps Platform,2025-02-03,133321,46.33
+Compliance Dataset 379 2025,Compliance,Internal PKI Server,2025-12-31,341981,151.43
+Compliance Dataset 380 2025,Compliance,Internal PKI Server,2025-05-31,476755,264.6
+Access Logs Dataset 381 2025,Access Logs,Internal Cloud Platform,2025-12-26,120971,104.94
+Compliance Dataset 382 2025,Compliance,Internal SOC,2025-08-09,474489,426.7
+Access Logs Dataset 383 2025,Access Logs,Internal PAM,2025-08-21,419098,198.82
+Endpoint Monitoring Dataset 384 2025,Endpoint Monitoring,Internal DLP,2025-08-07,328704,229.63
+Network Logs Dataset 385 2025,Network Logs,Internal DNS Server,2025-12-18,968819,510.41
+Endpoint Monitoring Dataset 386 2025,Endpoint Monitoring,Internal MDM,2025-02-17,453855,84.83
+Network Logs Dataset 387 2025,Network Logs,Internal DNS Server,2025-10-12,63894,40.11
+Compliance Dataset 388 2025,Compliance,Internal PKI Server,2025-06-18,703559,147.75
+Network Logs Dataset 389 2025,Network Logs,Internal Microservices Platform,2025-08-05,911260,842.24
+Endpoint Monitoring Dataset 390 2025,Endpoint Monitoring,Internal DLP,2025-11-04,328626,136.87
+Compliance Dataset 391 2025,Compliance,Internal PKI Server,2025-04-19,163246,112.81
+Threat Intelligence Dataset 392 2025,Threat Intelligence,Internal IAM,2025-06-29,887438,533.03
+Endpoint Monitoring Dataset 393 2025,Endpoint Monitoring,Internal DLP,2025-10-21,238144,196.83
+Compliance Dataset 394 2025,Compliance,Internal PKI Server,2025-01-14,639577,598.76
+Network Logs Dataset 395 2025,Network Logs,Internal RDP Server,2025-04-03,287544,210.61
+Network Logs Dataset 396 2025,Network Logs,Internal DevOps Platform,2025-06-29,7402,1.95
+Threat Intelligence Dataset 397 2025,Threat Intelligence,External Intelligence Vendor,2025-02-05,149766,114.85
+Endpoint Monitoring Dataset 398 2025,Endpoint Monitoring,Internal MDM,2025-09-29,226583,99.37
+Access Logs Dataset 399 2025,Access Logs,Internal PAM,2025-03-22,389028,148.01
+Network Logs Dataset 400 2025,Network Logs,Internal Firewall,2025-11-02,90083,80.63

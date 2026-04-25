@@ -1,0 +1,395 @@
+id,date,incident_type,severity,status,description,reported_by
+1,1/15/2024,Phishing,High,Investigating,Suspicious email campaign targeting finance department with fake invoice requests,Emma
+2,1/15/2024,Malware,Critical,Resolved,"Ransomware detected on marketing department file server, immediate isolation performed",Brian
+3,1/16/2024,Phishing,High,Open,Credential harvesting campaign using fake HR portal login pages,Emma
+4,1/16/2024,DDoS,Medium,Closed,"Application layer DDoS attack against customer portal, mitigated with WAF",Emma
+5,1/17/2024,Phishing,Critical,Investigating,CEO impersonation attack requesting urgent wire transfers to external accounts,Emma
+6,1/17/2024,Phishing,High,Open,Supply chain phishing targeting vendor credentials through fake portal,Brian
+7,1/18/2024,Malware,High,Resolved,"Trojan horse detected on sales laptop, system wiped and restored from backup",Alice
+8,1/18/2024,Phishing,Low,Closed,"Single phishing email reported by employee, confirmed false positive",Alex
+9,1/19/2024,DDoS,Low,Resolved,"Minor volumetric attack on development environment, no impact",Alice
+10,1/19/2024,Phishing,Medium,Investigating,Spear phishing targeting executives with fake board meeting invitations,Emma
+11,1/20/2024,Malware,Low,Open,Potentially unwanted program detected on user workstation,Emma
+12,1/21/2024,Phishing,High,Investigating,Business email compromise attempt targeting accounting department,Brian
+14,1/22/2024,Phishing,Critical,Investigating,Advanced persistent threat phishing campaign using zero-day exploits,Lexi
+16,1/23/2024,Phishing,Low,Closed,Phishing test email reported by vigilant employee,Emma
+17,1/24/2024,Malware,Medium,Resolved,"Adware infection on marketing computer, cleaned and removed",John
+18,1/24/2024,Phishing,High,Open,Credential phishing using fake VPN login page,Lexi
+19,1/25/2024,DDoS,Low,Closed,"Small-scale DDoS attempt on test server, auto-mitigated",Lexi
+20,1/25/2024,Phishing,Critical,Investigating,Whaling attack targeting C-level executives with custom malware,John
+23,1/27/2024,Malware,High,Open,Fileless malware detected in memory on critical server,Brian
+24,1/27/2024,Phishing,Medium,Investigating,Vendor impersonation phishing requesting payment details,Brian
+27,1/29/2024,DDoS,Medium,Resolved,DNS amplification attack against web services,Emma
+28,1/29/2024,Phishing,High,Open,Multi-factor authentication bypass phishing campaign,Lexi
+29,1/30/2024,Malware,Low,Open,Cryptominer detected on development server,Lexi
+30,1/30/2024,Phishing,Critical,Investigating,Credential stuffing attack following password breach,Robert
+32,2/1/2024,Malware,High,Resolved,"Rootkit infection on database server, system rebuilt",Emma
+34,2/2/2024,DDoS,Low,Resolved,"Minor ping flood attack, no service impact",Emma
+35,2/2/2024,Phishing,High,Open,Session hijacking through phishing proxy server,Emma
+38,2/4/2024,Malware,Low,Open,Browser hijacker on user workstation,Alice
+39,2/4/2024,Phishing,Medium,Investigating,Clone phishing resending legitimate emails with malicious links,Alex
+42,2/6/2024,DDoS,Medium,Resolved,HTTP flood attack on web application,Emma
+43,2/6/2024,Phishing,High,Open,Evil twin phishing using fake corporate WiFi,Brian
+44,2/7/2024,Malware,Critical,Investigating,Advanced persistent threat malware in network,Emma
+45,2/7/2024,Phishing,Medium,Investigating,Search engine poisoning leading to phishing sites,Lexi
+47,2/8/2024,Phishing,High,Open,Credential phishing targeting remote workers,Emma
+50,2/10/2024,Malware,High,Open,File-encrypting malware on shared network drive,Lexi
+51,2/10/2024,Phishing,Critical,Investigating,Business email compromise with social engineering,John
+53,2/11/2024,Phishing,Medium,Open,Voice phishing (vishing) targeting help desk,Emma
+56,2/13/2024,Malware,Medium,Resolved,Spyware on executive assistant computer,Alice
+57,2/13/2024,Phishing,High,Investigating,Angler phishing using fake social media accounts,John
+59,2/14/2024,Phishing,Medium,Open,Tabnabbing phishing attack targeting web applications,Lexi
+60,2/15/2024,DDoS,Low,Resolved,UDP flood attack mitigated by ISP,Lexi
+61,2/15/2024,Phishing,High,Investigating,Homograph attack using international characters,Robert
+62,2/16/2024,Malware,Low,Open,Potentially unwanted application in browser,Robert
+63,2/16/2024,Phishing,Critical,Investigating,Man-in-the-middle phishing intercepting communications,Emma
+67,2/18/2024,Phishing,Medium,Open,Watering hole phishing targeting industry websites,Emma
+68,2/19/2024,Malware,High,Resolved,Bootkit infection on endpoint device,Brian
+69,2/19/2024,Phishing,High,Investigating,Credential phishing using fake cloud storage links,Alice
+70,2/20/2024,DDoS,Medium,Closed,Application DDoS mitigated by cloud provider,Alex
+71,2/20/2024,Phishing,Low,Resolved,"Single user reported phishing email, no impact",Alice
+73,2/21/2024,Phishing,Medium,Open,SMS phishing (smishing) targeting mobile devices,Emma
+74,2/22/2024,Malware,Low,Open,Adware bundle in downloaded software,Brian
+75,2/22/2024,Phishing,High,Investigating,Evilginx phishing proxy capturing 2FA tokens,Emma
+78,2/24/2024,DDoS,Low,Resolved,"Minor volumetric attack, no impact",Emma
+79,2/24/2024,Phishing,Medium,Open,Fake update phishing using software impersonation,John
+80,2/25/2024,Malware,High,Investigating,Fileless malware in PowerShell scripts,Lexi
+81,2/25/2024,Phishing,Low,Closed,Phishing email caught by mail filter,Lexi
+83,2/26/2024,Phishing,High,Investigating,Business email compromise with invoice fraud,Robert
+85,2/27/2024,Phishing,Critical,Investigating,Advanced phishing campaign using AI-generated content,Brian
+86,2/28/2024,Malware,Medium,Resolved,RAT (Remote Access Trojan) on user device,Brian
+87,2/28/2024,Phishing,High,Open,Credential harvesting through fake authentication portal,Alice
+88,2/29/2024,DDoS,Low,Closed,Small-scale attack on development server,John
+89,2/29/2024,Phishing,Medium,Investigating,QR code phishing in parking garage,Emma
+92,3/2/2024,Malware,Critical,Investigating,Cryptolocker variant on file server,Robert
+93,3/2/2024,Phishing,High,Open,Session cookie theft through XSS phishing,Robert
+96,3/4/2024,DDoS,Low,Resolved,Minor attack on backup system,Emma
+97,3/4/2024,Phishing,Medium,Open,Fake job offer phishing targeting employees,Emma
+98,3/5/2024,Malware,Low,Open,Browser extension malware,Emma
+99,3/5/2024,Phishing,High,Investigating,Credential phishing using fake VPN portal,Brian
+102,3/7/2024,Phishing,High,Investigating,CEO fraud attempt with deepfake audio,Emma
+104,3/8/2024,Malware,Medium,Resolved,Info-stealer malware on sales laptop,Emma
+105,3/8/2024,Phishing,Low,Closed,Phishing email with fake shipping notification,Brian
+106,3/9/2024,DDoS,Low,Resolved,Minor HTTP flood attack,Emma
+107,3/9/2024,Phishing,Medium,Open,Fake security alert phishing,Lexi
+110,3/11/2024,Malware,Low,Open,Potentially unwanted program,John
+111,3/11/2024,Phishing,High,Open,Fake cloud storage notification phishing,Lexi
+114,3/13/2024,DDoS,Medium,Resolved,Application layer attack,Robert
+115,3/13/2024,Phishing,High,Investigating,Business email compromise,Emma
+116,3/14/2024,Malware,Critical,Investigating,File-encrypting ransomware,Brian
+117,3/14/2024,Phishing,Medium,Open,Credential phishing campaign,Brian
+119,3/15/2024,Phishing,High,Investigating,Advanced phishing with evasion,John
+122,3/17/2024,Malware,High,Open,Trojan infection,Lexi
+123,3/17/2024,Phishing,Critical,Investigating,Whaling attack executives,Robert
+125,3/18/2024,Phishing,Medium,Open,Fake HR portal phishing,Emma
+128,3/20/2024,Malware,Medium,Resolved,Adware infection,Emma
+129,3/20/2024,Phishing,High,Open,Credential harvesting,Emma
+132,3/22/2024,DDoS,Low,Resolved,UDP flood attack,Alex
+133,3/22/2024,Phishing,High,Investigating,Homograph attack,Alcie
+134,3/23/2024,Malware,Low,Open,PUA detection,Emma
+135,3/23/2024,Phishing,Critical,Investigating,MITM phishing,Emma
+140,3/26/2024,Malware,High,Resolved,Bootkit infection,Emma
+141,3/26/2024,Phishing,High,Investigating,Cloud storage phishing,John
+142,3/27/2024,DDoS,Medium,Closed,Application DDoS,Lexi
+143,3/27/2024,Phishing,Low,Resolved,Single user report,Lexi
+146,3/29/2024,Malware,Low,Open,Browser hijacker,Emma
+147,3/29/2024,Phishing,High,Investigating,Evilginx proxy attack,Brian
+150,3/31/2024,DDoS,Low,Resolved,Minor volumetric,John
+151,4/1/2024,Phishing,Medium,Open,Fake software update,Emma
+152,4/2/2024,Malware,High,Investigating,Fileless malware,Lexi
+153,4/2/2024,Phishing,Low,Closed,Filtered phishing,Lexi
+155,4/3/2024,Phishing,High,Investigating,Invoice fraud BEC,Robert
+158,4/5/2024,Malware,Medium,Resolved,RAT removal,Emma
+159,4/5/2024,Phishing,High,Open,Authentication portal fake,Emma
+160,4/6/2024,DDoS,Low,Closed,Dev server attack,Emma
+161,4/6/2024,Phishing,Medium,Investigating,QR code phishing,Brian
+164,4/8/2024,Malware,Critical,Investigating,Cryptolocker variant,Alcie
+165,4/8/2024,Phishing,High,Open,XSS phishing attack,Emma
+168,4/10/2024,DDoS,Low,Resolved,Backup system attack,Emma
+169,4/10/2024,Phishing,Medium,Open,Fake job offers,Lexi
+170,4/11/2024,Malware,Low,Open,Browser extension,Brian
+171,4/11/2024,Phishing,High,Investigating,VPN portal fake,Emma
+178,4/15/2024,DDoS,Low,Resolved,HTTP flood minor,Brian
+179,4/15/2024,Phishing,Medium,Open,Security alert fake,Brian
+182,4/17/2024,Malware,Low,Open,PUP detection,Emma
+183,4/17/2024,Phishing,High,Open,Cloud notification fake,Lexi
+186,4/19/2024,DDoS,Medium,Resolved,Application attack,Robert
+187,4/19/2024,Phishing,High,Investigating,BEC attempt,Emma
+188,4/20/2024,Malware,Critical,Investigating,Ransomware variant,Brian
+189,4/20/2024,Phishing,Medium,Open,Credential campaign,Emma
+194,4/23/2024,Malware,High,Open,Trojan detection,Alex
+195,4/23/2024,Phishing,Critical,Investigating,Executive targeting,Alcie
+196,4/24/2024,DDoS,Low,Closed,Test server attack,Emma
+197,4/24/2024,Phishing,Medium,Open,HR portal fake,Emma
+200,4/26/2024,Malware,Medium,Resolved,Adware cleanup,Lexi
+201,4/26/2024,Phishing,High,Open,Credential harvesting ongoing,Brian
+202,4/27/2024,Phishing,Critical,Open,Large transfer detected,Emma
+203,4/27/2024,Phishing,Medium,Open,Vendor fraud attempt,John
+204,4/28/2024,DDoS,Low,Resolved,UDP attack mitigated,Lexi
+205,4/28/2024,Phishing,High,Investigating,Homograph domain,Lexi
+206,4/29/2024,Malware,Low,Open,PUA found,John
+207,4/29/2024,Phishing,Critical,Investigating,MITM attack,Robert
+212,5/2/2024,Malware,High,Resolved,Bootkit removed,John
+213,5/2/2024,Phishing,High,Investigating,Cloud phishing,Emma
+214,5/3/2024,DDoS,Medium,Closed,App DDoS stopped,Lexi
+215,5/3/2024,Phishing,Low,Resolved,Single report handled,Lexi
+218,5/5/2024,Malware,Low,Open,Browser issue,Emma
+219,5/5/2024,Phishing,High,Investigating,Proxy attack,Brian
+222,5/7/2024,DDoS,Low,Resolved,Minor attack,Emma
+223,5/7/2024,Phishing,Medium,Open,Update fake,Brian
+224,5/8/2024,Malware,High,Investigating,Fileless threat,Alice
+225,5/8/2024,Phishing,Low,Closed,Filter caught,Alex
+227,5/9/2024,Phishing,High,Investigating,BEC fraud,Emma
+230,5/11/2024,Malware,Medium,Resolved,RAT cleaned,Emma
+231,5/11/2024,Phishing,High,Open,Portal fake,Lexi
+232,5/12/2024,DDoS,Low,Closed,Dev server,Brian
+233,5/12/2024,Phishing,Medium,Investigating,QR phishing,Emma
+236,5/14/2024,Malware,Critical,Investigating,Cryptolocker,Lexi
+237,5/14/2024,Phishing,High,Open,XSS attack,John
+240,5/16/2024,DDoS,Low,Resolved,Backup attack,Brian
+241,5/16/2024,Phishing,Medium,Open,Job offer fake,Brian
+242,5/17/2024,Malware,Low,Open,Extension malware,Alice
+243,5/17/2024,Phishing,High,Investigating,VPN fake portal,John
+248,5/20/2024,Malware,Medium,Resolved,Info-stealer,Robert
+249,5/20/2024,Phishing,Low,Closed,Shipping fake,Emma
+250,5/21/2024,DDoS,Low,Resolved,HTTP flood,Brian
+251,5/21/2024,Phishing,Medium,Open,Security fake alert,Emma
+254,5/23/2024,Malware,Low,Open,PUP detected,Brian
+255,5/23/2024,Phishing,High,Open,Cloud fake,Alice
+260,5/26/2024,Malware,Critical,Investigating,Ransomware variant,Brian
+261,5/26/2024,Phishing,Medium,Open,Credential campaign,Emma
+266,5/29/2024,Malware,High,Open,Trojan active,Lexi
+267,5/29/2024,Phishing,Critical,Investigating,Executive target,Lexi
+268,5/30/2024,DDoS,Low,Closed,Test server,John
+269,5/30/2024,Phishing,Medium,Open,HR portal fake,Robert
+270,6/1/2024,Phishing,High,Investigating,Spear phishing targeting finance with fake invoice follow-ups,Emma
+271,6/1/2024,Malware,Medium,Resolved,Spyware on marketing laptop cleaned,Alex
+272,6/2/2024,Phishing,Critical,Open,CEO impersonation requesting urgent cryptocurrency transfer,Robert
+273,6/2/2024,Phishing,High,Investigating,Fake Microsoft 365 login page targeting all employees,Brian
+274,6/3/2024,DDoS,Low,Closed,Minor attack on staging environment,Emma
+275,6/3/2024,Phishing,Medium,Open,Vendor impersonation with fake contract updates,Lexi
+276,6/4/2024,Malware,Low,Open,Browser hijacker redirecting to malicious sites,John
+277,6/4/2024,Phishing,High,Investigating,Fake HR benefits enrollment phishing campaign,Emma
+278,6/5/2024,Phishing,Critical,Open,Advanced BEC targeting accounts payable with fraudulent wiring instructions,Alice
+279,6/5/2024,Phishing,Medium,Investigating,Clone phishing of internal IT announcements,Emma
+280,6/6/2024,Malware,High,Resolved,Ransomware detected on shared drive (isolated successfully),Brian
+281,6/6/2024,Phishing,High,Open,Fake password reset notifications sent,Lexi
+282,6/7/2024,DDoS,Medium,Resolved,Application layer attack on customer portal,Emma
+283,6/7/2024,Phishing,Medium,Investigating,SMS phishing targeting mobile device users,Brian
+284,6/8/2024,Phishing,Critical,Open,Whaling attack targeting CFO with fake acquisition documents,Robert
+285,6/8/2024,Malware,Low,Open,PUA on development machine,John
+286,6/9/2024,Phishing,High,Investigating,Fake webinar registration phishing for credential harvesting,Emma
+287,6/9/2024,Phishing,Medium,Open,LinkedIn connection request phishing to corporate accounts,Lexi
+288,6/10/2024,Malware,Medium,Resolved,Trojan on sales executive laptop,Brian
+289,6/10/2024,Phishing,High,Investigating,Fake expense report system phishing,Emma
+290,6/11/2024,DDoS,Low,Closed,Small UDP flood on test server,Alex
+291,6/11/2024,Phishing,Critical,Open,Supply chain phishing attacking vendor credentials,Robert
+292,6/12/2024,Phishing,High,Investigating,Fake internal survey phishing for login details,Brian
+293,6/12/2024,Malware,Low,Open,Cryptominer on development server,Emma
+294,6/13/2024,Phishing,Medium,Open,Fake software license renewal phishing,Lexi
+295,6/13/2024,Phishing,High,Investigating,Business email compromise with payroll diversion,Emma
+296,6/14/2024,Malware,Critical,Resolved,File-encrypting ransomware on backup server,Brian
+297,6/14/2024,Phishing,High,Open,Fake VPN client update phishing,John
+298,6/15/2024,DDoS,Medium,Resolved,HTTPS flood attack mitigated,Emma
+299,6/15/2024,Phishing,Medium,Investigating,QR code phishing in corporate parking lot,Robert
+300,6/16/2024,Phishing,Critical,Open,CEO fraud with deepfake video conference invitation,Emma
+301,6/16/2024,Malware,High,Open,Fileless malware in memory,Alice
+302,6/17/2024,Phishing,High,Investigating,Fake IT support phishing requesting admin credentials,Brian
+303,6/17/2024,Phishing,Medium,Open,Fake shipping notification phishing,Lexi
+304,6/18/2024,Malware,Low,Resolved,Adware bundle removed,John
+305,6/18/2024,Phishing,High,Open,Fake firewall alert phishing,Emma
+306,6/19/2024,DDoS,Low,Closed,Minor attack on development API,Alex
+307,6/19/2024,Phishing,Critical,Investigating,APT phishing using zero-day exploit,Robert
+308,6/20/2024,Phishing,High,Open,Fake cloud storage quota warnings,Brian
+309,6/20/2024,Malware,Medium,Open,Info-stealer on contractor laptop,Emma
+310,6/21/2024,Phishing,Medium,Investigating,Fake performance review phishing,Lexi
+311,6/21/2024,Phishing,High,Open,Fake multi-factor authentication setup phishing,Emma
+312,6/22/2024,Malware,High,Resolved,Bootkit on endpoint device,Brian
+313,6/22/2024,Phishing,Critical,Open,BEC with social engineering targeting finance department,Robert
+314,6/23/2024,DDoS,Medium,Resolved,DNS amplification attack,Emma
+315,6/23/2024,Phishing,High,Investigating,Fake HR policy update phishing,John
+316,6/24/2024,Phishing,Medium,Open,Fake software patch notification phishing,Lexi
+317,6/24/2024,Malware,Low,Open,Browser extension malware,Emma
+318,6/25/2024,Phishing,High,Open,Fake password expiration notices,Brian
+319,6/25/2024,Phishing,Critical,Investigating,Evilginx proxy capturing login sessions,Robert
+320,6/26/2024,Malware,Medium,Resolved,RAT detected and removed,Alice
+321,6/26/2024,Phishing,High,Open,Fake document sharing notification phishing,Emma
+322,6/27/2024,DDoS,Low,Closed,Minor volumetric attack,Alex
+323,6/27/2024,Phishing,Medium,Investigating,Fake webinar invitation phishing,Lexi
+324,6/28/2024,Phishing,High,Open,Fake security training completion phishing,Brian
+325,6/28/2024,Malware,Critical,Open,Cryptolocker variant spreading,Robert
+326,6/29/2024,Phishing,Critical,Investigating,Whaling attack with personalized details,Emma
+327,6/29/2024,Phishing,High,Open,Fake internal communications phishing,John
+328,6/30/2024,Malware,Low,Resolved,PUA cleaned from workstation,Lexi
+329,6/30/2024,Phishing,Medium,Open,Fake software license renewal,Emma
+330,7/1/2024,DDoS,Medium,Resolved,Application DDoS mitigated,Brian
+331,7/1/2024,Phishing,High,Investigating,Fake expense reimbursement phishing,Robert
+332,7/2/2024,Phishing,Critical,Open,CEO impersonation for urgent wire transfer,Emma
+333,7/2/2024,Malware,High,Open,Trojan on marketing server,Lexi
+334,7/3/2024,Phishing,High,Investigating,Fake IT maintenance notification phishing,John
+335,7/3/2024,Phishing,Medium,Open,Fake company event invitation phishing,Brian
+336,7/4/2024,Malware,Low,Open,Browser hijacker redirecting,Emma
+337,7/4/2024,Phishing,High,Open,Fake password reset for cloud applications,Robert
+338,7/5/2024,DDoS,Low,Resolved,Minor ping flood,Alex
+339,7/5/2024,Phishing,Critical,Investigating,BEC targeting accounts receivable,Lexi
+340,7/6/2024,Phishing,High,Open,Fake VPN configuration update phishing,Emma
+341,7/6/2024,Malware,Medium,Resolved,Spyware on executive assistant PC,John
+342,7/7/2024,Phishing,Medium,Investigating,Fake HR survey phishing,Brian
+343,7/7/2024,Phishing,High,Open,Fake security alert about compromised account,Robert
+344,7/8/2024,Malware,Critical,Open,Ransomware variant detected,Emma
+345,7/8/2024,Phishing,High,Investigating,Fake software update for internal tools,Lexi
+346,7/9/2024,DDoS,Low,Closed,Test environment attack,Alex
+347,7/9/2024,Phishing,Critical,Open,APT phishing with customized malware,John
+348,7/10/2024,Phishing,High,Investigating,Fake document signature request phishing,Brian
+349,7/10/2024,Malware,Low,Open,Cryptominer on test server,Emma
+350,7/11/2024,Phishing,Medium,Open,Fake training completion certificate phishing,Robert
+351,7/11/2024,Phishing,High,Open,Fake cloud backup notification,Lexi
+352,7/12/2024,Malware,High,Resolved,Fileless malware in scripts,John
+353,7/12/2024,Phishing,Critical,Investigating,CEO fraud with compromised email account,Emma
+354,7/13/2024,DDoS,Medium,Resolved,HTTP/S attack mitigated,Brian
+355,7/13/2024,Phishing,High,Open,Fake multi-factor authentication reset,Robert
+356,7/14/2024,Phishing,Medium,Investigating,Fake software license expiration,Lexi
+357,7/14/2024,Malware,Low,Open,Browser extension collecting data,Emma
+358,7/15/2024,Phishing,High,Open,Fake payroll system update phishing,John
+359,7/15/2024,Phishing,Critical,Investigating,Whaling attack with spoofed video call,Brian
+360,7/16/2024,Malware,Medium,Resolved,Adware on marketing computers,Robert
+361,7/16/2024,Phishing,High,Open,Fake security policy update requiring login,Emma
+362,7/17/2024,DDoS,Low,Closed,Minor attack on backup system,Alex
+363,7/17/2024,Phishing,Medium,Investigating,Fake travel booking phishing,Lexi
+364,7/18/2024,Phishing,High,Open,Fake document collaboration invitation,John
+365,7/18/2024,Malware,Critical,Open,Ransomware spreading through network,Brian
+366,7/19/2024,Phishing,Critical,Investigating,BEC with social engineering tactics,Emma
+367,7/19/2024,Phishing,High,Open,Fake system outage notification phishing,Robert
+368,7/20/2024,Malware,Low,Resolved,PUA removed from workstation,Lexi
+369,7/20/2024,Phishing,Medium,Open,Fake software demo request phishing,John
+370,7/21/2024,DDoS,Medium,Resolved,Application layer DDoS,Brian
+371,7/21/2024,Phishing,High,Investigating,Fake password strength check phishing,Emma
+372,7/22/2024,Phishing,Critical,Open,CEO impersonation for confidential transfer,Robert
+373,7/22/2024,Malware,High,Open,Trojan on file server,Lexi
+374,7/23/2024,Phishing,High,Investigating,Fake IT equipment return phishing,John
+375,7/23/2024,Phishing,Medium,Open,Fake company newsletter phishing,Brian
+376,7/24/2024,Malware,Low,Open,Browser hijacker with ads,Emma
+377,7/24/2024,Phishing,High,Open,Fake cloud migration notification,Robert
+378,7/25/2024,DDoS,Low,Resolved,Minor UDP flood,Alex
+379,7/25/2024,Phishing,Critical,Investigating,BEC targeting vendor payments,Lexi
+380,7/26/2024,Phishing,High,Open,Fake software update for internal portal,John
+381,7/26/2024,Malware,Medium,Resolved,Spyware on sales laptop,Brian
+382,7/27/2024,Phishing,Medium,Investigating,Fake HR policy acknowledgment phishing,Emma
+383,7/27/2024,Phishing,High,Open,Fake security certificate expiration,Robert
+384,7/28/2024,Malware,Critical,Open,File-encrypting malware variant,Lexi
+385,7/28/2024,Phishing,High,Investigating,Fake document review request phishing,John
+386,7/29/2024,DDoS,Low,Closed,Test server attack,Alex
+387,7/29/2024,Phishing,Critical,Open,APT phishing with credential harvesting,Brian
+388,7/30/2024,Phishing,High,Investigating,Fake software license activation phishing,Emma
+389,7/30/2024,Malware,Low,Open,Cryptominer detected,Robert
+390,7/31/2024,Phishing,Medium,Open,Fake training registration phishing,Lexi
+391,7/31/2024,Phishing,High,Open,Fake system maintenance alert,John
+392,8/1/2024,Malware,High,Resolved,Fileless malware cleanup,Brian
+393,8/1/2024,Phishing,Critical,Investigating,CEO fraud with urgency tactics,Emma
+394,8/2/2024,DDoS,Medium,Resolved,HTTPS attack mitigated,Robert
+395,8/2/2024,Phishing,High,Open,Fake multi-factor app setup phishing,Lexi
+396,8/3/2024,Phishing,Medium,Investigating,Fake software evaluation request,John
+397,8/3/2024,Malware,Low,Open,Browser extension data theft,Emma
+398,8/4/2024,Phishing,High,Open,Fake payroll deduction authorization,Brian
+399,8/4/2024,Phishing,Critical,Investigating,Whaling attack with legal threat,Robert
+400,8/5/2024,Malware,Medium,Resolved,Adware removal campaign,Lexi
+401,8/5/2024,Phishing,High,Open,Fake security awareness test phishing,John
+402,8/6/2024,DDoS,Low,Closed,Development environment attack,Alex
+403,8/6/2024,Phishing,Medium,Investigating,Fake travel expense phishing,Emma
+404,8/7/2024,Phishing,High,Open,Fake document signing platform update,Brian
+405,8/7/2024,Malware,Critical,Open,Ransomware in network shares,Robert
+406,8/8/2024,Phishing,Critical,Investigating,BEC with compromised executive account,Lexi
+407,8/8/2024,Phishing,High,Open,Fake system upgrade notification,John
+408,8/9/2024,Malware,Low,Resolved,PUA cleanup,Emma
+409,8/9/2024,Phishing,Medium,Open,Fake software feedback request phishing,Brian
+410,8/10/2024,DDoS,Medium,Resolved,Application DDoS attack,Robert
+411,8/10/2024,Phishing,High,Investigating,Fake password policy update phishing,Lexi
+412,8/11/2024,Phishing,Critical,Open,CEO impersonation for urgent purchase,John
+413,8/11/2024,Malware,High,Open,Trojan on database server,Emma
+414,8/12/2024,Phishing,High,Investigating,Fake IT audit phishing,Brian
+415,8/12/2024,Phishing,Medium,Open,Fake company announcement phishing,Robert
+416,8/13/2024,Malware,Low,Open,Browser hijacker infection,Lexi
+417,8/13/2024,Phishing,High,Open,Fake cloud service outage notification,John
+418,8/14/2024,DDoS,Low,Resolved,Minor volumetric attack,Alex
+419,8/14/2024,Phishing,Critical,Investigating,BEC targeting procurement department,Emma
+420,8/15/2024,Phishing,High,Open,Fake software patch requirement,Brian
+421,8/15/2024,Malware,Medium,Resolved,Spyware removal,Robert
+422,8/16/2024,Phishing,Medium,Investigating,Fake HR benefits change phishing,Lexi
+423,8/16/2024,Phishing,High,Open,Fake security breach notification,John
+424,8/17/2024,Malware,Critical,Open,Cryptolocker variant spreading,Emma
+425,8/17/2024,Phishing,High,Investigating,Fake document version update request,Brian
+426,8/18/2024,DDoS,Low,Closed,Test API attack,Alex
+427,8/18/2024,Phishing,Critical,Open,APT phishing campaign,Robert
+428,8/19/2024,Phishing,High,Investigating,Fake software license renewal reminder,Lexi
+429,8/19/2024,Malware,Low,Open,Cryptominer activity,John
+430,8/20/2024,Phishing,Medium,Open,Fake training completion phishing,Emma
+431,8/20/2024,Phishing,High,Open,Fake system alert for password change,Brian
+432,8/21/2024,Malware,High,Resolved,Fileless malware eradication,Robert
+433,8/21/2024,Phishing,Critical,Investigating,CEO fraud emergency request,Lexi
+434,8/22/2024,DDoS,Medium,Resolved,HTTPS flood mitigated,John
+435,8/22/2024,Phishing,High,Open,Fake MFA application setup,Emma
+436,8/23/2024,Phishing,Medium,Investigating,Fake software trial extension,Brian
+437,8/23/2024,Malware,Low,Open,Browser extension malicious activity,Robert
+438,8/24/2024,Phishing,High,Open,Fake payroll information update,Lexi
+439,8/24/2024,Phishing,Critical,Investigating,Whaling attack with confidential data request,John
+440,8/25/2024,Malware,Medium,Resolved,Adware cleanup completed,Emma
+441,8/25/2024,Phishing,High,Open,Fake security training requirement,Brian
+442,8/26/2024,DDoS,Low,Closed,Development server attack,Alex
+443,8/26/2024,Phishing,Medium,Investigating,Fake travel authorization phishing,Robert
+444,8/27/2024,Phishing,High,Open,Fake document management system update,Lexi
+445,8/27/2024,Malware,Critical,Open,Ransomware in backup system,John
+446,8/28/2024,Phishing,Critical,Investigating,BEC with vendor impersonation,Emma
+447,8/28/2024,Phishing,High,Open,Fake system migration notification,Brian
+448,8/29/2024,Malware,Low,Resolved,PUA removal,Robert
+449,8/29/2024,Phishing,Medium,Open,Fake software feedback survey,Lexi
+450,8/30/2024,DDoS,Medium,Resolved,Application layer attack,John
+451,8/30/2024,Phishing,High,Investigating,Fake password expiration warning,Emma
+452,8/31/2024,Phishing,Critical,Open,CEO impersonation for financial transaction,Brian
+453,8/31/2024,Malware,High,Open,Trojan on application server,Robert
+454,9/1/2024,Phishing,High,Investigating,Fake IT security assessment phishing,Lexi
+455,9/1/2024,Phishing,Medium,Open,Fake company event update phishing,John
+456,9/2/2024,Malware,Low,Open,Browser hijacker redirects,Emma
+457,9/2/2024,Phishing,High,Open,Fake cloud storage limit notification,Brian
+458,9/3/2024,DDoS,Low,Resolved,Minor attack mitigated,Alex
+459,9/3/2024,Phishing,Critical,Investigating,BEC targeting accounts payable,Robert
+460,9/4/2024,Phishing,High,Open,Fake software compliance update,Lexi
+461,9/4/2024,Malware,Medium,Resolved,Spyware detected and removed,John
+462,9/5/2024,Phishing,Medium,Investigating,Fake HR policy review phishing,Emma
+463,9/5/2024,Phishing,High,Open,Fake security incident alert,Brian
+464,9/6/2024,Malware,Critical,Open,Ransomware variant detected,Robert
+465,9/6/2024,Phishing,High,Investigating,Fake document approval request phishing,Lexi
+466,9/7/2024,DDoS,Low,Closed,Test environment DDoS,Alex
+467,9/7/2024,Phishing,Critical,Open,Advanced persistent threat phishing,John
+468,9/8/2024,Phishing,High,Investigating,Fake software maintenance notification,Emma
+469,9/8/2024,Malware,Low,Open,Cryptominer on dev server,Brian
+470,9/9/2024,Phishing,Medium,Open,Fake training enrollment phishing,Robert
+471,9/9/2024,Phishing,High,Open,Fake system notification for account verification,Lexi
+472,9/10/2024,Malware,High,Resolved,Fileless malware removal,John
+473,9/10/2024,Phishing,Critical,Investigating,CEO fraud with urgency,Emma
+474,9/11/2024,DDoS,Medium,Resolved,HTTPS attack handled,Brian
+475,9/11/2024,Phishing,High,Open,Fake MFA enrollment requirement,Robert
+476,9/12/2024,Phishing,Medium,Investigating,Fake software license upgrade,Lexi
+477,9/12/2024,Malware,Low,Open,Browser extension vulnerability,John
+478,9/13/2024,Phishing,High,Open,Fake payroll system maintenance,Emma
+479,9/13/2024,Phishing,Critical,Investigating,Whaling attack targeting executives,Brian
+480,9/14/2024,Malware,Medium,Resolved,Adware cleanup on multiple machines,Robert
+481,9/14/2024,Phishing,High,Open,Fake security awareness campaign phishing,Lexi
+482,9/15/2024,DDoS,Low,Closed,Development attack,Alex
+483,9/15/2024,Phishing,Medium,Investigating,Fake travel reimbursement phishing,John
+484,9/16/2024,Phishing,High,Open,Fake document sharing platform update,Emma
+485,9/16/2024,Malware,Critical,Open,Ransomware spreading in network,Brian
+486,9/17/2024,Phishing,Critical,Investigating,BEC with social engineering,Robert
+487,9/17/2024,Phishing,High,Open,Fake system upgrade schedule notification,Lexi
+488,9/18/2024,Malware,Low,Resolved,PUA removal completed,John
+489,9/18/2024,Phishing,Medium,Open,Fake software user feedback request,Emma
+490,9/19/2024,DDoS,Medium,Resolved,Application DDoS mitigated,Brian
+491,9/19/2024,Phishing,High,Investigating,Fake password policy change alert,Robert
+492,9/20/2024,Phishing,Critical,Open,CEO impersonation for confidential data,Lexi
+493,9/20/2024,Malware,High,Open,Trojan on file share server,John
+494,9/21/2024,Phishing,High,Investigating,Fake IT compliance check phishing,Emma
+495,9/21/2024,Phishing,Medium,Open,Fake company newsletter subscription,Brian
+496,9/22/2024,Malware,Low,Open,Browser hijacker with malicious ads,Robert
+497,9/22/2024,Phishing,High,Open,Fake cloud service maintenance alert,Lexi
+498,9/23/2024,DDoS,Low,Resolved,Minor attack handled,Alex
+499,9/23/2024,Phishing,Critical,Investigating,BEC targeting financial department,John
+500,9/24/2024,Phishing,High,Open,Fake software security update requirement,Emma

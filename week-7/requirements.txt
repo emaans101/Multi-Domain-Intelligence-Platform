@@ -1,0 +1,3 @@
+# Week 7 required libraries
+python>=3.10
+bcrypt==4.2.0
